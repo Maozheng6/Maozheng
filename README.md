@@ -25,6 +25,8 @@ My research focuses on multi-modal human-computer interaction, specifically comb
 [3] Li, Zhi, **Maozheng Zhao**, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. "BayesGaze:
 A Bayesian Approach to Eye-Gaze Based Target Selection." In Graphics Interface 2021. 2021.  [Paper](bayesgaze.pdf)
 
+[4] Zhao, Maozheng, Qin Tu, Yanping Lu, Yongyu Chang, and Bo Yang. "No-reference image quality assessment based on phase congruency and spectral entropies." In 2015 Picture Coding Symposium (PCS), pp.302-306. IEEE, 2015. [Paper](PCSEQ.pdf)
+
 ### Skills
 Android development with Java, iOS development with Swift, Deep learning tools Pytorch and TensorFlow
 
