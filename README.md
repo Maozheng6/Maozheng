@@ -1,4 +1,13 @@
 ![headphoto](headshot.jpeg)
+## Maozheng Zhao
+PhD student in Human-computer Interaction
+Stony Brook University
+Stony Brook, New York, United States 
+
+# About
+My research focuses on multi-modal human-computer interaction, specifically combining modalities such as touch, voice, eye gaze with AI and deep learning models for a more natural and efficient interaction experience.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Maozheng6/MaozhengZhao/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
