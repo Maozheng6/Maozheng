@@ -13,7 +13,11 @@ My research focuses on multi-modal human-computer interaction, specifically comb
 
 [Curriculum Vitae](cv.pdf)
 
-# Projects
+# Selected publications
+
+[Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
+
+
 
 
 
