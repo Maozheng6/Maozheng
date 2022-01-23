@@ -1,5 +1,5 @@
-![headphoto](headshot.jpeg | width=100)
-<img src="headshot.jpeg" width="100" >
+
+<img src="headshot.jpeg" width="200" >
 ## Maozheng Zhao
 PhD student in Human-computer Interaction
 
@@ -18,7 +18,8 @@ My research focuses on multi-modal human-computer interaction, specifically comb
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
-
+<img src="VT_teaser_cropped.png" width="200" >
+<img src="EyeSayCorrect_teaser.png" width="200" >
 
 
 
