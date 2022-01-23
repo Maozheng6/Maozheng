@@ -1,4 +1,4 @@
-![headphoto](headshot.jpeg "width"=100)
+![headphoto](headshot.jpeg | width=100)
 ## Maozheng Zhao
 PhD student in Human-computer Interaction
 
