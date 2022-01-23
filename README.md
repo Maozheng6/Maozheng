@@ -1,4 +1,4 @@
-![headphoto](headshot.jpeg)
+![headphoto](headshot.jpeg "width"=100)
 ## Maozheng Zhao
 PhD student in Human-computer Interaction
 Stony Brook University
