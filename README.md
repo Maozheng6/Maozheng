@@ -19,7 +19,7 @@ My research focuses on multi-modal human-computer interaction, specifically comb
 
 [1]. **Maozheng Zhao**, Wenzhe Cui, IV Ramakrishnan, Shumin Zhai, Xiaojun Bi (2021) "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones". In Proceedings of UIST 2021 - The ACM Symposium on User Interface Software and Technology. 17 pages. Accepted. [Acceptance Rate: 25.9%]
 
-[Project page](https://maozheng6.github.io/VT/) | [Paper](vt.pdf)
+[Project page](https://maozheng6.github.io/VT/) | [Paper](VT.pdf)
 
 <img src="EyeSayCorrect_teaser.png" width="400" > 
 
