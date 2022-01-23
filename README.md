@@ -1,4 +1,5 @@
 ![headphoto](headshot.jpeg | width=100)
+<img src="headshot.jpeg" width="100" >
 ## Maozheng Zhao
 PhD student in Human-computer Interaction
 
