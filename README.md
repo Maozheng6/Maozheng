@@ -21,5 +21,8 @@ My research focuses on multi-modal human-computer interaction, specifically comb
 
 [2]. **Maozheng Zhao**, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel, Andrew Wang, Xia Zhao, Sina Rashidian, Furqan Baig, Khiem Phi, Shumin Zhai, I.V. Ramakrishnan, Fusheng Wang, and Xiaojun Bi. EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices. In The 27th ACM Annual Conference on Intelligent User Interfaces (IUI '22), March 22-25, 2022, Virtual Event, Helsinki, Finland, 14 pages. Accepted. [Acceptance Rate: 24.5%]. [Paper](EyeSayCorrect_camera_ready.pdf), [Project page](https://maozheng6.github.io/EyeSayCorrect/).
 
+[3] Li, Zhi, **Maozheng Zhao**, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. "BayesGaze:
+A Bayesian Approach to Eye-Gaze Based Target Selection." In Graphics Interface 2021. 2021.  [Paper](bayesgaze.pdf)
+
 
 
