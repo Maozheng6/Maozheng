@@ -31,7 +31,7 @@ A Bayesian Approach to Eye-Gaze Based Target Selection." In Graphics Interface 2
 
 [4]. **Maozheng Zhao**, Qin Tu, Yanping Lu, Yongyu Chang, and Bo Yang. "No-reference image quality assessment based on phase congruency and spectral entropies." In 2015 Picture Coding Symposium (PCS), pp.302-306. IEEE, 2015. [Paper](PCSEQ.pdf)
 
-<img src="scGAN_teaser2.png" width="400" > 
+<img src="scGAN_teaser.png" width="400" > 
 
 [5]. Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Samaras. "Shadow detection with conditional generative adversarial networks." In Proceedings of the IEEE International Conference on Computer Vision, pp. 4510-4518. 2017. [Paper](scGAN.pdf)
 
