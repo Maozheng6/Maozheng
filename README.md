@@ -6,14 +6,11 @@ Stony Brook University<br/>
 Stony Brook, New York, United States<br/>
 Email: maozheng.zhao@stonybrook.edu<br/>
 
-#### About
 My research focuses on multi-modal human-computer interaction, specifically combining modalities such as touch, voice, eye gaze with AI and deep learning models for a more natural and efficient interaction experience.
 
-[Curriculum Vitae](cv.pdf) | [LinkedIn](https://www.linkedin.com/in/maozheng-zhao-51079914a/)
+[CV (pdf)](cv.pdf) | [LinkedIn](https://www.linkedin.com/in/maozheng-zhao-51079914a/) | [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
-#### Selected publications
-
- [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ) 
+### Selected publications
 
 <img src="VT_teaser_cropped.png" width="400" >
 
@@ -27,6 +24,12 @@ My research focuses on multi-modal human-computer interaction, specifically comb
 
 [3] Li, Zhi, **Maozheng Zhao**, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. "BayesGaze:
 A Bayesian Approach to Eye-Gaze Based Target Selection." In Graphics Interface 2021. 2021.  [Paper](bayesgaze.pdf)
+
+### Skills
+Android development with Java, iOS development with Swift, Deep learning tools Pytorch and TensorFlow
+
+### Teaching Experience
+Teaching Assistance for CSE323 human-computer interaction, CSE214 data structures and CSE215 foundations of computer science
 
 
 
