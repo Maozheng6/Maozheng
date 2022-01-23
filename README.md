@@ -7,6 +7,8 @@ Stony Brook, New York, United States
 # About
 My research focuses on multi-modal human-computer interaction, specifically combining modalities such as touch, voice, eye gaze with AI and deep learning models for a more natural and efficient interaction experience.
 
+[Curriculum Vitae](cv.pdf)
+
 
 ## Welcome to GitHub Pages
 
