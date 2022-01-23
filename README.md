@@ -27,7 +27,7 @@ A Bayesian Approach to Eye-Gaze Based Target Selection." In Graphics Interface 2
 
 <img src="PCSEQ_teaser.png" width="200" > 
 
-[4] Zhao, Maozheng, Qin Tu, Yanping Lu, Yongyu Chang, and Bo Yang. "No-reference image quality assessment based on phase congruency and spectral entropies." In 2015 Picture Coding Symposium (PCS), pp.302-306. IEEE, 2015. [Paper](PCSEQ.pdf)
+[4] **Maozheng Zhao**, Qin Tu, Yanping Lu, Yongyu Chang, and Bo Yang. "No-reference image quality assessment based on phase congruency and spectral entropies." In 2015 Picture Coding Symposium (PCS), pp.302-306. IEEE, 2015. [Paper](PCSEQ.pdf)
 
 ### Skills
 Android development with Java, iOS development with Swift, Deep learning tools Pytorch and TensorFlow
