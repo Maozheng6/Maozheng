@@ -8,7 +8,7 @@ Email: maozheng.zhao@stonybrook.edu<br/>
 
 My research focuses on multi-modal human-computer interaction, specifically combining modalities such as touch, voice, eye gaze with AI and deep learning models for a more natural and efficient interaction experience.
 
-[CV (pdf)](cv.pdf) | [LinkedIn](https://www.linkedin.com/in/maozheng-zhao-51079914a/) | [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
+[CV (pdf)](cv.pdf) [LinkedIn](https://www.linkedin.com/in/maozheng-zhao-51079914a/) [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 ### Selected publications
 
