@@ -1,14 +1,14 @@
 
-<img src="headshot.jpeg" width="200" >
+<img src="headshot2.jpg" width="150" >
 # Maozheng Zhao
-PhD student in Human-computer Interaction<br/>
+PhD student in Computer Science<br/>
 Stony Brook University<br/>
 Stony Brook, New York, United States<br/>
 Email: maozheng.zhao@stonybrook.edu<br/>
 
 My research focuses on multi-modal human-computer interaction, specifically combining modalities such as touch, voice, eye gaze with AI and deep learning models for a more natural and efficient interaction experience.
 
-[CV](cv.pdf)    [LinkedIn](https://www.linkedin.com/in/maozheng-zhao-51079914a/)   [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
+[Resume](cv.pdf)    [LinkedIn](https://www.linkedin.com/in/maozheng-zhao-51079914a/)   [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 ### Selected publications
 
