@@ -14,7 +14,7 @@ experience on mobile devices. Apart from expertise in HCI, I also have
 extensive experience with computer vision and LLMs from my previous
 publications and internships.
 
-[Resume](cv.pdf) \|
+[Resume](resume.pdf) \|
 [LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/)\|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
