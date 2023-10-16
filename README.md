@@ -15,7 +15,7 @@ extensive experience with computer vision and LLMs from my previous
 publications and internships.
 
 [Resume](resume.pdf) \|
-[LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/)\|
+[LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 
