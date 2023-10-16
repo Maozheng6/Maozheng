@@ -10,7 +10,7 @@ Email: maozheng.zhao@gmail.com<br/>
 [LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
-### Expertise
+## Expertise
 My PhD research focuses on multi-modal human-computer
 interaction, specifically on combining modalities such as touch, voice,
 and eye gaze with AI for a more natural and efficient interaction
@@ -19,10 +19,10 @@ extensive experience with computer vision and LLMs from my previous
 publications and internships.
 
 
-### Paper under review
+## Paper under review
 <img align="left" src="llm_teaser.png" width="250" >  
 
-# CHI 2024 (submitted)
+#### CHI 2024 (submitted)
 Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaojun Bi. "Beyond Autocorrect: LLM-based Multi-modal Text Correction on Smartphones with Voice and Touch Input." Submitted at CHI 2024 conference on Human Factors in Computing Systems. ([Project webpage](https://maozheng6.github.io/LLM-VT/)) <br/>
 
 
