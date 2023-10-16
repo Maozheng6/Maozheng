@@ -2,7 +2,6 @@
 Stony Brook University<br/>
 Email: maozheng.zhao@gmail.com<br/>">
 
-<img src="headshot2.jpg" width="150" >
 
 # Maozheng Zhao
 CS PhD student in Computer Science<br/>
