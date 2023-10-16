@@ -19,6 +19,7 @@ publications and internships.
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 
+<img src="llm_teaser.png" width="150" >
 
 ### Selected publications
 [1] Zhao, Maozheng, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST), pp. 162-178. 2021. (Project webpage) 
