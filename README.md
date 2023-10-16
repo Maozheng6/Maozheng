@@ -1,6 +1,4 @@
-<img align="left" src="headshot2.jpg" width="150" alt="<h1> Maozheng Zhao</h1> CS PhD student in Computer Science<br/>
-Stony Brook University<br/>
-Email: maozheng.zhao@gmail.com<br/>">
+<img align="left" src="headshot2.jpg" width="150">
 
 
 # Maozheng Zhao
