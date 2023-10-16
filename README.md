@@ -6,6 +6,10 @@ CS PhD student in Computer Science<br/>
 Stony Brook University<br/>
 Email: maozheng.zhao@gmail.com<br/>
 
+[Resume](resume.pdf) \|
+[LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/) \|
+[Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
+
 ### Expertise
 My PhD research focuses on multi-modal human-computer
 interaction, specifically on combining modalities such as touch, voice,
@@ -14,14 +18,13 @@ experience on mobile devices. Apart from expertise in HCI, I also have
 extensive experience with computer vision and LLMs from my previous
 publications and internships.
 
-[Resume](resume.pdf) \|
-[LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/) \|
-[Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
-
+### Paper under review
 <img src="llm_teaser.png" width="150" >
+Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaojun Bi. "Beyond Autocorrect: LLM-based Multi-modal Text Correction on Smartphones with Voice and Touch Input." Submitted at CHI 2024 conference on Human Factors in Computing Systems. (Project webpage)
 
 ### Selected publications
+
 [1] Zhao, Maozheng, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST), pp. 162-178. 2021. (Project webpage) 
 
 [2] Zhao, Maozheng, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel et al. "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices." In 27th International Conference on Intelligent User Interfaces (IUI), pp. 470-482. 2022. (Project webpage) 
