@@ -26,6 +26,7 @@ publications and internships.
 
 ### Programming languages
 Python (most fluent), Java, Swift, #C.
+
 Deep learning tools Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
 
 ## Paper under review
