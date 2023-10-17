@@ -20,6 +20,13 @@ experience on mobile devices. Apart from expertise in HCI, I also have
 extensive experience with computer vision and LLMs from my previous
 publications and internships.
 
+### Internship experience
+
+### Education
+
+### Programming languages
+Python (most fluent), Java, Swift, #C.
+Deep learning tools Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
 
 ## Paper under review
 <img align="left" src="llm_teaser.png" width="250" >  
@@ -55,12 +62,7 @@ Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaoj
 
 [12] Mu, Linlin, Maozheng Zhao, and Chaozhu Zhang. "Quantum particle swarm optimisation based on chaotic mutation for automatic parameters determination of pulse coupled neural network." International Journal of Computing Science and Mathematics 4.4 (2013): 354-362.
 
-### Internship experience
 
-### Education
-
-### Skills
-Deep learning tools Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
 ### Teaching Experience
 Teaching Assistance for CSE323 human-computer interaction, CSE214 data structures and CSE215 foundations of computer science
 
