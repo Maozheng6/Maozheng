@@ -23,7 +23,7 @@ publications and internships.
 
 #### Ph.D., Stony Brook University, USA<br/>
 Major: Computer Science.  Advisor: Prof. Xiaojun Bi.  GPA: 3.78 <br/>
-Anticipated graduation date: December 2023.<br/>
+**Graduation date: December 2023.**<br/>
 Aug, 2016-present.<br/>
 
 #### M.S., Beijing University of Posts and Telecommunications, Beijing<br/>
