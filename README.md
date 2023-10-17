@@ -72,7 +72,7 @@ Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaoj
 #### IUI 2022 
 [2] Zhao, Maozheng, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel et al. "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices." In 27th International Conference on Intelligent User Interfaces (IUI), pp. 470-482. 2022. (Project webpage) 
 
-<img align="left" src="GS_teaser.png" width="250" >  
+<img align="left" src="gc_teaser.png" width="250" >  
 
 #### IUI 2023 
 [3] Zhao, Maozheng, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. "Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality." In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI), pp. 595-606. 2023. (Project webpage)  
