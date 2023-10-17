@@ -23,17 +23,17 @@ publications and internships.
 ### Education
 
 Ph.D., Stony Brook University, USA<br/>
-Aug, 2016-present.<br/>
 Major: Computer Science.  Advisor: Prof. Xiaojun Bi.  GPA: 3.78 <br/>
 Anticipated graduation date: December 2023.<br/>
+Aug, 2016-present.<br/>
 
 M.S., Beijing University of Posts and Telecommunications, Beijing<br/>
-Sep, 2013 - Mar, 2016<br/>
 Major: Information and Communication Engineering.  GPA: 3.80<br/>
+Sep, 2013 - Mar, 2016<br/>
 
 B.S., Harbin Engineering University<br/>
-Aug, 2009 - Jul, 2013.<br/>
 Major: Electronic and Information Engineering.  GPA: 3.79<br/>
+Aug, 2009 - Jul, 2013.<br/>
 
 ### Internship experience
 
