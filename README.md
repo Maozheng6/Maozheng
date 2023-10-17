@@ -38,14 +38,14 @@ Aug, 2009 - Jul, 2013.<br/>
 
 #### Student researcher, Google, Mountain View, CA<br/>
 Dec, 2022 - May, 2023<br/>
-Enabled Android settings search to understand natural language queries by LLMs. Created a dataset with pairs of natural language queries and answers by prompt engineering using LLMs, fine-tuned the LaMDA LLM with the dataset, evaluated the fine-tuned model with real user queries collected from a user study. The fine-tuned model outperforms traditional search algorithms such as TF-IDF, and sentence encoding.
+Enabled Android settings search to understand natural language queries by LLMs. Created a dataset with pairs of natural language queries and answers by prompt engineering using LLMs, fine-tuned the LaMDA LLM with the dataset, evaluated the fine-tuned model with real user queries collected from a user study. The fine-tuned model significantly outperforms traditional search algorithms such as TF-IDF, and sentence encoding.
 
 #### Research Intern, Google, Mountain View, CA<br/>
 Oct, 2022 - Dec, 2022<br/>
 (Same as the Google student researcher project above)
 #### Research Scientist Intern, Meta, Redmond, WA <br/>
 
-Reduced users physical burden in gesture typing in virtual reality by utilizing eye tracking information. Published a paper in IUI2024 from the intern project.
+Reduced users' physical burden in gesture typing in virtual reality by utilizing eye tracking information. Published a conference paper in IUI 2024 from the intern project.
 
 ## Programming languages
 Python (most fluent), Java, Swift, #C.
