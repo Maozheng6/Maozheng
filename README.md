@@ -8,7 +8,7 @@ Email: maozheng.zhao@gmail.com<br/>
 Phone：631-438-3846
 
 [Resume](resume.pdf) \|
-[Transcripts](resume.pdf) \|
+[Transcript](transcript.pdf) \|
 [LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
