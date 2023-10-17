@@ -48,7 +48,7 @@ Oct, 2022 - Dec, 2022<br/>
 Reduced users' physical burden in gesture typing in virtual reality by utilizing eye tracking information. Published a conference paper in IUI 2024 from the intern project.
 
 ## Programming languages
-Python (most fluent), Java, Swift, #C.
+Python (fluent), Java, Swift, #C.
 
 Deep learning tools Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
 
