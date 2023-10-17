@@ -20,9 +20,24 @@ experience on mobile devices. Apart from expertise in HCI, I also have
 extensive experience with computer vision and LLMs from my previous
 publications and internships.
 
+### Education
+
+Ph.D., Stony Brook University, USA
+Aug, 2016-present.
+Major: Computer Science.  Advisor: Prof. Xiaojun Bi.  GPA: 3.78 
+Anticipated graduation date: December 2023.
+
+M.S., Beijing University of Posts and Telecommunications, Beijing
+Sep, 2013 - Mar, 2016
+Major: Information and Communication Engineering.  GPA: 3.80
+
+B.S., Harbin Engineering University
+Aug, 2009 - Jul, 2013.
+Major: Electronic and Information Engineering.  GPA: 3.79
+
 ### Internship experience
 
-### Education
+
 
 ### Programming languages
 Python (most fluent), Java, Swift, #C.
