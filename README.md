@@ -20,22 +20,22 @@ experience on mobile devices. Apart from expertise in HCI, I also have
 extensive experience with computer vision and LLMs from my previous
 publications and internships.
 
-### Education
+## Education
 
-Ph.D., Stony Brook University, USA<br/>
+#### Ph.D., Stony Brook University, USA<br/>
 Major: Computer Science.  Advisor: Prof. Xiaojun Bi.  GPA: 3.78 <br/>
 Anticipated graduation date: December 2023.<br/>
 Aug, 2016-present.<br/>
 
-M.S., Beijing University of Posts and Telecommunications, Beijing<br/>
+#### M.S., Beijing University of Posts and Telecommunications, Beijing<br/>
 Major: Information and Communication Engineering.  GPA: 3.80<br/>
 Sep, 2013 - Mar, 2016<br/>
 
-B.S., Harbin Engineering University<br/>
+#### B.S., Harbin Engineering University<br/>
 Major: Electronic and Information Engineering.  GPA: 3.79<br/>
 Aug, 2009 - Jul, 2013.<br/>
 
-### Internship experience
+## Internship experience
 
 #### Student researcher, Google, Mountain View, CA<br/>
 Dec, 2022 - May, 2023<br/>
@@ -49,7 +49,7 @@ Oct, 2022 - Dec, 2022<br/>
 
 Reduced users physical burden in gesture typing in virtual reality by utilizing eye tracking information. Published a paper in IUI2024 from the intern project.
 
-### Programming languages
+## Programming languages
 Python (most fluent), Java, Swift, #C.
 
 Deep learning tools Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
@@ -62,7 +62,7 @@ Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaoj
 
 
 
-### Selected publications
+## Selected publications
 
 
 [1] Zhao, Maozheng, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST), pp. 162-178. 2021. [Acceptance Rate: 25.05%] (Project webpage) 
@@ -89,7 +89,7 @@ Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaoj
 [12] Mu, Linlin, Maozheng Zhao, and Chaozhu Zhang. "Quantum particle swarm optimisation based on chaotic mutation for automatic parameters determination of pulse coupled neural network." International Journal of Computing Science and Mathematics 4.4 (2013): 354-362.
 
 
-### Teaching Experience
+## Teaching Experience
 Teaching Assistance for CSE323 human-computer interaction, CSE214 data structures and CSE215 foundations of computer science
 
 
