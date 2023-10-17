@@ -2,12 +2,13 @@
 
 
 # Maozheng Zhao
-CS PhD student in Computer Science<br/>
+CS PhD student in Computer Science graduating in Dec 2023.<br/>
 Stony Brook University<br/>
 Email: maozheng.zhao@gmail.com<br/>
 Phone：631-438-3846
 
 [Resume](resume.pdf) \|
+[Transcripts](resume.pdf) \|
 [LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
@@ -53,6 +54,10 @@ Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaoj
 [11] Lu, Yanping, et al. "Gradient magnitude similarity for tone-mapped image quality assessment." 2015 Visual Communications and Image Processing (VCIP). IEEE, 2015. 
 
 [12] Mu, Linlin, Maozheng Zhao, and Chaozhu Zhang. "Quantum particle swarm optimisation based on chaotic mutation for automatic parameters determination of pulse coupled neural network." International Journal of Computing Science and Mathematics 4.4 (2013): 354-362.
+
+### Internship experience
+
+### Education
 
 ### Skills
 Deep learning tools Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
