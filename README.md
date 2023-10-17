@@ -43,7 +43,8 @@ Enabled Android settings search to understand natural language queries by LLMs. 
 **Research Intern, Google, Mountain View, CA**<br/>
 Oct, 2022 - Dec, 2022<br/>
 (Same as the Google student researcher project above)<br/>
-**Research Scientist Intern, Meta, Redmond, WA **<br/>
+
+**Research Scientist Intern, Meta, Redmond, WA**<br/>
 Reduced users' physical burden in gesture typing in virtual reality by utilizing eye tracking information. Published a conference paper in IUI 2024 from the intern project.<br/>
 
 ## Programming languages
