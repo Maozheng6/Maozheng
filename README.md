@@ -21,31 +21,30 @@ publications and internships.
 
 ## Education
 
-#### Ph.D., Stony Brook University, USA<br/>
+**Ph.D., Stony Brook University, USA**<br/>
 Major: Computer Science.  Advisor: Prof. Xiaojun Bi.  GPA: 3.78 <br/>
 **Graduation date: December 2023.**<br/>
 Aug, 2016-present.<br/>
 
-#### M.S., Beijing University of Posts and Telecommunications, Beijing<br/>
+**M.S., Beijing University of Posts and Telecommunications, Beijing**<br/>
 Major: Information and Communication Engineering.  GPA: 3.80<br/>
 Sep, 2013 - Mar, 2016<br/>
 
-#### B.S., Harbin Engineering University<br/>
+**B.S., Harbin Engineering University**<br/>
 Major: Electronic and Information Engineering.  GPA: 3.79<br/>
 Aug, 2009 - Jul, 2013.<br/>
 
 ## Internship experience
 
-#### Student researcher, Google, Mountain View, CA<br/>
+**Student researcher, Google, Mountain View, CA**<br/>
 Dec, 2022 - May, 2023<br/>
 Enabled Android settings search to understand natural language queries by LLMs. Created a dataset with pairs of natural language queries and answers by prompt engineering using LLMs, fine-tuned the LaMDA LLM with the dataset, evaluated the fine-tuned model with real user queries collected from a user study. The fine-tuned model significantly outperforms traditional search algorithms such as TF-IDF, and sentence encoding.
 
-#### Research Intern, Google, Mountain View, CA<br/>
+**Research Intern, Google, Mountain View, CA**<br/>
 Oct, 2022 - Dec, 2022<br/>
-(Same as the Google student researcher project above)
-#### Research Scientist Intern, Meta, Redmond, WA <br/>
-
-Reduced users' physical burden in gesture typing in virtual reality by utilizing eye tracking information. Published a conference paper in IUI 2024 from the intern project.
+(Same as the Google student researcher project above)<br/>
+**Research Scientist Intern, Meta, Redmond, WA **<br/>
+Reduced users' physical burden in gesture typing in virtual reality by utilizing eye tracking information. Published a conference paper in IUI 2024 from the intern project.<br/>
 
 ## Programming languages
 Python (fluent), Java, Swift, #C.
