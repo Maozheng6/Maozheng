@@ -24,7 +24,7 @@ publications and internships.
 **Ph.D., Stony Brook University, USA**<br/>
 Major: Computer Science.  Advisor: Prof. Xiaojun Bi.  GPA: 3.78 <br/>
 **Graduation date: December 2023.**<br/>
-CS program is ranked #23 in the US by CSRankings.org 
+CS program is ranked #23 in the US by CSRankings.org <br/>
 Aug, 2016-present.<br/>
 
 **M.S., Beijing University of Posts and Telecommunications, Beijing**<br/>
