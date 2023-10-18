@@ -51,7 +51,7 @@ Reduced users' physical burden in gesture typing in virtual reality by utilizing
 ## Programming skills
 Python (fluent), Java, Swift, #C.
 
-Deep learning tools Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
+Deep learning with Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
 
 ## Selected publications
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
