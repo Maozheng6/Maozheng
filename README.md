@@ -69,7 +69,7 @@ Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaoj
 
 #### IUI 2022 
 [2] Zhao, Maozheng, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel et al. "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices." In 27th International Conference on Intelligent User Interfaces (IUI), pp. 470-482. 2022. [Acceptance Rate: 24.5%] <br/>
-[Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://maozheng6.github.io/Maozheng/VT.pdf"><img  src="pdf.gif" width="20" >  [Paper](VT.pdf) <br/>
+[Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
 
 <a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="200" >  
 
