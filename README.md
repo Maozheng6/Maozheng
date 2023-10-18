@@ -56,7 +56,8 @@ Deep learning tools Pytorch and TensorFlow, Android development with Java, iOS d
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="200">  
 
 #### CHI 2024 (Under review)
-Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaojun Bi. "Beyond Autocorrect: LLM-based Multi-modal Text Correction on Smartphones with Voice and Touch Input." Submitted at CHI 2024 conference on Human Factors in Computing Systems. ([Project webpage](https://maozheng6.github.io/LLM-VT/)) <br/>
+Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaojun Bi. "Beyond Autocorrect: LLM-based Multi-modal Text Correction on Smartphones with Voice and Touch Input." Submitted at CHI 2024 conference on Human Factors in Computing Systems. <br/>
+[Project webpage](https://maozheng6.github.io/LLM-VT/), [Paper](VT.pdf) <br/>
 
 <a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="200" >  
 
