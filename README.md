@@ -3,7 +3,7 @@
 
 # Maozheng Zhao
 CS PhD student in Computer Science graduating in Dec 2023.<br/>
-Stony Brook University<br/>
+Stony Brook University (Ranked #23 in the US by CSRankings.org )<br/>
 Email: maozheng.zhao@gmail.com<br/>
 Phone：631-438-3846
 
@@ -66,17 +66,17 @@ Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaoj
 <img align="left" src="VT_teaser.png" width="250" >  
 
 #### UIST 2021 
-[1] Zhao, Maozheng, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST), pp. 162-178. 2021. [Acceptance Rate: 25.05%] (Project webpage) 
+[1] Zhao, Maozheng, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST), pp. 162-178. 2021. [Acceptance Rate: 25.05%] ([Project webpage](https://maozheng6.github.io/VT/)) 
 
 <img align="left" src="ESC_teaser.png" width="250" >  
 
 #### IUI 2022 
-[2] Zhao, Maozheng, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel et al. "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices." In 27th International Conference on Intelligent User Interfaces (IUI), pp. 470-482. 2022. (Project webpage) 
+[2] Zhao, Maozheng, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel et al. "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices." In 27th International Conference on Intelligent User Interfaces (IUI), pp. 470-482. 2022. ([Project webpage](https://maozheng6.github.io/EyeSayCorrect/)) 
 
 <img align="left" src="gc_teaser.png" width="250" >  
 
 #### IUI 2023 
-[3] Zhao, Maozheng, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. "Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality." In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI), pp. 595-606. 2023. (Project webpage)  
+[3] Zhao, Maozheng, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. "Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality." In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI), pp. 595-606. 2023. ([Project webpage](https://maozheng6.github.io/GazeSpeedup/))  
 
 [4] Li, Zhi, Maozheng Zhao, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi. "Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens." In CHI Conference on Human Factors in Computing Systems (CHI), pp. 1-15. 2022.
 [5] Li, Zhi, Maozheng Zhao, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. "BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection." In Proceedings. Graphics Interface (GI), vol. 2021, p. 231. NIH Public Access, 2021. 
