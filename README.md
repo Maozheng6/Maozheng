@@ -53,25 +53,25 @@ Python (fluent), Java, Swift, #C.
 Deep learning tools Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
 
 ## Selected publications
-<a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="200">  
+<a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="230">  
 
 #### CHI 2024 (Under review)
 Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaojun Bi. "Beyond Autocorrect: LLM-based Multi-modal Text Correction on Smartphones with Voice and Touch Input." Submitted at CHI 2024 conference on Human Factors in Computing Systems. <br/>
 [Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
 
-<a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="200" >  
+<a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="230" >  
 
 #### UIST 2021 
 [1] Zhao, Maozheng, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST), pp. 162-178. 2021. [Acceptance Rate: 25.05%] <br/>
 [Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
 
-<a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="200" >  
+<a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="230" >  
 
 #### IUI 2022 
 [2] Zhao, Maozheng, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel et al. "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices." In 27th International Conference on Intelligent User Interfaces (IUI), pp. 470-482. 2022. [Acceptance Rate: 24.5%] <br/>
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
 
-<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="200" >  
+<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="230" >  
 
 #### IUI 2023 
 [3] Zhao, Maozheng, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. "Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality." In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI), pp. 595-606. 2023. [Acceptance Rate: 24.1%] <br/>
