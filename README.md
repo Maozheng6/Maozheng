@@ -48,10 +48,6 @@ Oct, 2022 - Dec, 2022<br/>
 **Research Scientist Intern, Meta, Redmond, WA**<br/>
 Reduced users' physical burden in gesture typing in virtual reality by utilizing eye tracking information. Published a conference paper in IUI 2024 from the intern project.<br/>
 
-## Programming skills
-Python (fluent), Java, Swift, #C.
-
-Deep learning with Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
 
 ## Selected publications
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
@@ -97,6 +93,10 @@ Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaoj
 
 [12] Mu, Linlin, Maozheng Zhao, and Chaozhu Zhang. "Quantum particle swarm optimisation based on chaotic mutation for automatic parameters determination of pulse coupled neural network." International Journal of Computing Science and Mathematics 4.4 (2013): 354-362.
 
+## Programming skills
+Python (fluent), Java, Swift, #C.
+
+Deep learning with Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
 
 ## Teaching Experience
 Teaching Assistance for CSE323 human-computer interaction, CSE214 data structures and CSE215 foundations of computer science
