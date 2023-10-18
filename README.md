@@ -73,10 +73,9 @@ Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaoj
 #### IUI 2023 
 [3] Zhao, Maozheng, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. "Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality." In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI), pp. 595-606. 2023. [Acceptance Rate: 24.1%] ([Project webpage](https://maozheng6.github.io/GazeSpeedup/))  
 
-#### CHI 2022
+
 [4] Li, Zhi, Maozheng Zhao, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi. "Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens." In CHI Conference on Human Factors in Computing Systems (CHI), pp. 1-15. 2022.
 
-#### GI 2021
 [5] Li, Zhi, Maozheng Zhao, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. "BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection." In Proceedings. Graphics Interface (GI), vol. 2021, p. 231. NIH Public Access, 2021. 
 
 [6] Nguyen, Vu, Tomas F. Yago Vicente, Maozheng Zhao, Minh Hoai, and Dimitris Samaras. "Shadow detection with conditional generative adversarial networks." In Proceedings of the IEEE International Conference on Computer Vision (ICCV), pp. 4510-4518. 2017. 
