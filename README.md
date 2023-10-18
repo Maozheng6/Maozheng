@@ -58,22 +58,22 @@ Deep learning tools Pytorch and TensorFlow, Android development with Java, iOS d
 
 
 ## Selected publications
-<img align="left" src="llm_teaser.png" width="250" >  
+<img align="left" src="llm_teaser.png" width="200" >  
 
 #### CHI 2024 (Under review)
 Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaojun Bi. "Beyond Autocorrect: LLM-based Multi-modal Text Correction on Smartphones with Voice and Touch Input." Submitted at CHI 2024 conference on Human Factors in Computing Systems. ([Project webpage](https://maozheng6.github.io/LLM-VT/)) <br/>
 
-<img align="left" src="VT_teaser.png" width="250" >  
+<img align="left" src="VT_teaser.png" width="200" >  
 
 #### UIST 2021 
 [1] Zhao, Maozheng, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST), pp. 162-178. 2021. [Acceptance Rate: 25.05%] ([Project webpage](https://maozheng6.github.io/VT/)) 
 
-<img align="left" src="ESC_teaser.png" width="250" >  
+<img align="left" src="ESC_teaser.png" width="200" >  
 
 #### IUI 2022 
 [2] Zhao, Maozheng, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel et al. "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices." In 27th International Conference on Intelligent User Interfaces (IUI), pp. 470-482. 2022. ([Project webpage](https://maozheng6.github.io/EyeSayCorrect/)) 
 
-<img align="left" src="gc_teaser.png" width="250" >  
+<img align="left" src="gc_teaser.png" width="200" >  
 
 #### IUI 2023 
 [3] Zhao, Maozheng, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. "Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality." In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI), pp. 595-606. 2023. ([Project webpage](https://maozheng6.github.io/GazeSpeedup/))  
