@@ -129,7 +129,7 @@ Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Sa
 
 
 ## Programming experience
-Python (7 years), Java (3 years), Swift (2 years), Pytorch (2 years), TensorFlow (0.5 year), C# (0.5 year)
+Python (10 years), Java (3 years), Swift (2 years), Pytorch (2 years), TensorFlow (0.5 year), C# (0.5 year)
 
 Android development (3 years), iOS development (2 years), VR development (0.5 year)
 
