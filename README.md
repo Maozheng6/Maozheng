@@ -99,7 +99,7 @@ Zhao, Maozheng, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaoj
 [Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
 
 #### CHI 2022
-Li, Zhi, Maozheng Zhao, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi. "Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens." In CHI Conference on Human Factors in Computing Systems (CHI), pp. 1-15. 2022.
+Li, Zhi, Maozheng Zhao, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi. "Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens." In CHI Conference on Human Factors in Computing Systems (CHI), pp. 1-15. 2022. [Acceptance Rate: 24.8%]
 
 #### GI 2021
 Li, Zhi, Maozheng Zhao, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. "BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection." In Proceedings. Graphics Interface (GI), vol. 2021, p. 231. NIH Public Access, 2021. 
@@ -108,17 +108,10 @@ Li, Zhi, Maozheng Zhao, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu 
 
 Nguyen, Vu, Tomas F. Yago Vicente, Maozheng Zhao, Minh Hoai, and Dimitris Samaras. "Shadow detection with conditional generative adversarial networks." In Proceedings of the IEEE International Conference on Computer Vision (ICCV), pp. 4510-4518. 2017. 
 
-Fassler, Danielle J., et al. "Deep learning-based image analysis methods for brightfield-acquired multiplex immunohistochemistry images." Diagnostic pathologymedical 15.1 (2020): 1-11. 
-
-Zhao, Maozheng, Le Hou, Han Le, Dimitris Samaras, Nebojsa Jojic, Danielle Fassler, Tahsin Kurc et al. "Label Super Resolution with Inter-Instance Loss." arXiv preprint arXiv:1904.04429 (2019).
-
+#### PCS 2015
 Zhao, Maozheng, Qin Tu, Yanping Lu, Yongyu Chang, and Bo Yang. "No-reference image quality assessment based on phase congruency and spectral entropies." In 2015 Picture Coding Symposium (PCS), pp. 302-306. IEEE, 2015.
 
-Liu, Jun, Ran Gao, Maozheng Zhao, Yanping Lu, and Aidong Men. "Video saliency detection based on mutual information and background prior in compressed domain." In 2015 IEEE/CIC International Conference on Communications in China (ICCC), pp. 1-6. IEEE, 2015.
 
-Lu, Yanping, et al. "Gradient magnitude similarity for tone-mapped image quality assessment." 2015 Visual Communications and Image Processing (VCIP). IEEE, 2015. 
-
-Mu, Linlin, Maozheng Zhao, and Chaozhu Zhang. "Quantum particle swarm optimisation based on chaotic mutation for automatic parameters determination of pulse coupled neural network." International Journal of Computing Science and Mathematics 4.4 (2013): 354-362.
 
 ## Programming skills
 Python (fluent), Java, Swift, #C.
