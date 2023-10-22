@@ -59,7 +59,7 @@ Developped an end-to-end Android APP for a new text correction and text formatti
 
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
 
-Developped an end-to-end iOS APP for a new text correction method with eye gaze and voice input. Proposed and implemented a new eye gaze target selection method using Beyesian therory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the iOS APP for text correction.   <br/>
+Developped an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian therory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction.   <br/>
 
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
 
@@ -68,7 +68,7 @@ Developped an end-to-end iOS APP for a new text correction method with eye gaze 
 
 [Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
 
-Developped an end-to-end Android APP and a cloud server for the new text correction method. Fine-tuned FLAN-T5 LLM on Google colab. Created a synthetic dataset by random text generation. Served the LLM on a server for Android phones. Connected the interaction between the Android phone and the LLM server. Evaluated the LLM based text corrrection by a user study. <br/>
+Developped an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server and the server communicates with the Android APP during text correction. Evaluated the LLM based text corrrection by a user study. The LLM-based text correction improved 15% text correction time from the previous voice and touch method. <br/>
 
 <a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
 
