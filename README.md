@@ -106,7 +106,7 @@ Enabled Android settings search to understand natural language queries with LLMs
 
 #### CHI 2022
 Li, Zhi, **Maozheng Zhao**, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi. "Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens." In CHI Conference on Human Factors in Computing Systems (CHI), pp. 1-15. 2022. [Acceptance Rate: 24.8%]<br/>
- <a href="https://maozheng6.github.io/Maozheng/SOS.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/Maozheng/SOS.pdf) <br/>
+ <a href="https://maozheng6.github.io/Maozheng/SOS.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/SOS.pdf) <br/>
 
 #### GI 2021
 Li, Zhi, **Maozheng Zhao**, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. "BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection." In Proceedings. Graphics Interface (GI), vol. 2021, p. 231. NIH Public Access, 2021.<br/>
@@ -114,11 +114,12 @@ Li, Zhi, **Maozheng Zhao**, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wa
 
 #### ICCV 2017
 
-Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Samaras. "Shadow detection with conditional generative adversarial networks." In Proceedings of the IEEE International Conference on Computer Vision (ICCV), pp. 4510-4518. 2017. 
+Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Samaras. "Shadow detection with conditional generative adversarial networks." In Proceedings of the IEEE International Conference on Computer Vision (ICCV), pp. 4510-4518. 2017. <br/>
+<a href="https://maozheng6.github.io/Maozheng/scgan.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/scgan.pdf) <br/>
 
 #### PCS 2015
-**Zhao, Maozheng**, Qin Tu, Yanping Lu, Yongyu Chang, and Bo Yang. "No-reference image quality assessment based on phase congruency and spectral entropies." In 2015 Picture Coding Symposium (PCS), pp. 302-306. IEEE, 2015.
-
+**Zhao, Maozheng**, Qin Tu, Yanping Lu, Yongyu Chang, and Bo Yang. "No-reference image quality assessment based on phase congruency and spectral entropies." In 2015 Picture Coding Symposium (PCS), pp. 302-306. IEEE, 2015.<br/>
+<a href="https://maozheng6.github.io/Maozheng/iqa.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/iqa.pdf) <br/>
 
 
 ## Programming skills
