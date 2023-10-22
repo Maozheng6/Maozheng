@@ -69,7 +69,8 @@ Developped an end-to-end  iOS APP for the new text correction method. Applying a
 
 [Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
 
-Developped a Unity APP on Meta Quest 2 for the new text input method. Reduced 30% physical burden from users during  swipe typing in VR by utilizing users' eye tracking information. <br/>
+Developped a Unity APP on Meta Quest 2 for the new text input method. Reduced 30% physical burden from users during swipe typing in VR by utilizing users' eye tracking information. <br/>
+<br/>
 
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
 
