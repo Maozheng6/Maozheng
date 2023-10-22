@@ -85,7 +85,7 @@ Developped an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text inp
 
  <a href="https://maozheng6.github.io/Maozheng/search.pdf"><img  src="pdf.gif" width="20" >  [Slides](https://maozheng6.github.io/Maozheng/search.pdf) <br/>
 
-Enabled Android settings search to understand natural language queries by LLMs. Created a dataset with pairs of natural language queries and answers by prompt engineering using LLMs, fine-tuned the LaMDA LLM with the dataset, evaluated the fine-tuned model with real user queries collected from a user study. The fine-tuned model significantly outperforms traditional search algorithms such as TF-IDF, and sentence encoding. <br/>
+Enabled Android settings search to understand natural language queries with LLMs. Fine-tuned the LaMDA LLM with the a custom dataset, created a synthetic dataset using LLMs, evaluated the fine-tuned model with real user queries. The fine-tuned model significantly outperforms other search methods such as TF-IDF, sentence encoding, and LLM prompt engineering. <br/>
 
 ## Selected publications
 #### UIST 2021
