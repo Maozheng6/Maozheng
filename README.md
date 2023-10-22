@@ -57,7 +57,7 @@ Developped an end-to-end Android APP for a new text correction and text formatti
 
 ### Eye Gaze and voice based text correction on iPad Pro
 
-[Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  <br/>
+[Project webpage](https://maozheng6.github.io/EyeSayCorrect/)<br/>
 
 Developped an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian therory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction. Carried out a user study which proved that the Bayesian method reduced up to 23% text correction time from the non-Bayesian method.  <br/>
 
@@ -67,7 +67,7 @@ Developped an end-to-end iOS APP for a new text correction method with eye gaze 
 
 ### LLM-based text correction with voice and touch input on smartphones
 
-[Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >   <br/>
+[Project webpage](https://maozheng6.github.io/LLM-VT/) <br/>
 
 Developped an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
 
@@ -77,7 +77,7 @@ Developped an end-to-end Android APP for a new LLM-based text correction method 
 
 ### Eye gaze assisted swipe typing in VR
 
-[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >   <br/>
+[Project webpage](https://maozheng6.github.io/GazeSpeedup/)  <br/>
 
 Developped an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text input method with eye gaze and wristband input. Reduced 30% handmovement burden from users during swipe typing in VR by utilizing users' eye gaze. <br/>
 
