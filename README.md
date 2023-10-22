@@ -53,7 +53,7 @@ Aug, 2009 - Jul, 2013.<br/>
 
 Developped an end-to-end Android APP for a new text correction and text formatting method with voice and touch input. Converted voice input to executable text correction or formatting commands. Implemented a 3-gram language model and word embedding model on Android phones to correct text. Carried out a user study which proved that the proposed method reduced 31% text editing time and 48% text correction time from the iOS Voice Control. <br/>
 
----
+<br/>
 
 <a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="250" >  
 
@@ -62,6 +62,8 @@ Developped an end-to-end Android APP for a new text correction and text formatti
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
 
 Developped an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian therory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction. Carried out a user study which proved that the Bayesian method reduced up to 23% text correction time from the non-Bayesian method.  <br/>
+
+<br/>
 
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
 
@@ -72,6 +74,8 @@ Developped an end-to-end iOS APP for a new text correction method with eye gaze 
 
 Developped an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
 
+<br/>
+
 <a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
 
 ### Eye gaze assisted swipe typing in VR
@@ -79,6 +83,7 @@ Developped an end-to-end Android APP for a new LLM-based text correction method 
 [Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
 
 Developped an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text input method with eye gaze and wristband input. Reduced 30% handmovement burden from users during swipe typing in VR by utilizing users' eye gaze. <br/>
+
 <br/>
 
 <img align="left" src="search_teasor.png" width="250">  
@@ -88,6 +93,8 @@ Developped an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text inp
  <a href="https://maozheng6.github.io/Maozheng/search.pdf"><img  src="pdf.gif" width="20" >  [Slides](https://maozheng6.github.io/Maozheng/search.pdf) <br/>
 
 Enabled Android settings search to understand natural language queries with LLMs. Fine-tuned the LaMDA LLM with the a custom dataset, created a synthetic dataset using LLMs, evaluated the fine-tuned model with real user queries. The fine-tuned model significantly outperforms other search methods such as TF-IDF, sentence encoding, and LLM prompt engineering. <br/>
+
+<br/>
 
 ## Selected publications
 #### UIST 2021
