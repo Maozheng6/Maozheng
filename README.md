@@ -12,7 +12,7 @@ Phone：631-428-3846
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 ## Introduction
-I'm a computer science PhD candidate focuses on multi-modal human-computer interaction on mobile devices. I've published a few papers in CHI, UIST, and IUI. I've built multiple end-to-end mobile applications with multi-modal input and machine learning models in the backend for better user experience. I have 4 years experience of Android/iOS development and 3 years experience of deep learning. I have worked with touch, voice, eye gaze, and wristband input in Android, iOS and VR systems. And I've worked on LLM fine-tuning, U-Net CNN training, GAN training and implemented machine learning models on Android/iOS devices. I've interned at Meta and Google for HCI research.
+I'm a computer science PhD candidate focuses on multi-modal human-computer interaction on mobile devices. I've published a few papers in CHI, UIST, and IUI. I've built multiple end-to-end mobile applications with multi-modal input and machine learning models for better user experience. I have 4 years experience of Android/iOS development and 3 years experience of deep learning. I have worked with touch, voice, eye gaze, and wristband input in Android, iOS and VR systems. And I've worked on LLM fine-tuning, U-Net CNN training, GAN training and implemented machine learning models on Android/iOS devices. I've interned at Meta and Google for HCI research.
 ## Internship experience
 
 **Student researcher, Google, Mountain View, CA**<br/>
