@@ -68,7 +68,7 @@ Developped an end-to-end iOS APP for a new text correction method with eye gaze 
 
 [Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
 
-Developped an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server and the server communicates with the Android APP during text correction. Evaluated the LLM based text corrrection by a user study. The LLM-based text correction improved 15% text correction time from the previous voice and touch method. <br/>
+Developped an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server which communicates with the Android APP for text correction. Carried out a user study which proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
 
 <a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
 
