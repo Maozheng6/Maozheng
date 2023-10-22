@@ -77,7 +77,7 @@ Developped a Unity APP on Meta Quest 2 for the new text input method. Reduced 30
 
 **LLM-based text correction with voice and touch input on smartphones** <br/>
 
- <a href="https://maozheng6.github.io/Maozheng/search.pdf"><img  src="pdf.gif" width="20" >  [Slides](https://maozheng6.github.io/Maozheng/search.pdf) <br/>
+[Project Slides](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
 
 Developped an end-to-end Android APP and a cloud server for the new text correction method. Fine-tuned FLAN-T5 LLM on Google colab. Created a synthetic dataset by random text generation. Served the LLM on a server for Android phones. Connected the interaction between the Android phone and the LLM server. Evaluated the LLM based text corrrection by a user study. <br/>
 
@@ -86,7 +86,7 @@ Developped an end-to-end Android APP and a cloud server for the new text correct
 
 **LLM-based Android search for natural queries** <br/>
 
-[Project Slides](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
+ <a href="https://maozheng6.github.io/Maozheng/search.pdf"><img  src="pdf.gif" width="20" >  [Slides](https://maozheng6.github.io/Maozheng/search.pdf) <br/>
 
 Enabled Android settings search to understand natural language queries by LLMs. Created a dataset with pairs of natural language queries and answers by prompt engineering using LLMs, fine-tuned the LaMDA LLM with the dataset, evaluated the fine-tuned model with real user queries collected from a user study. The fine-tuned model significantly outperforms traditional search algorithms such as TF-IDF, and sentence encoding. <br/>
 
