@@ -16,9 +16,8 @@ I'm a computer science PhD candidate focuses on multi-modal human-computer inter
 ## Internship experience
 
 **Student researcher, Google, Mountain View, CA**<br/>
-Dec, 2022 - May, 2023<br/>
-Enabled Android settings search to understand natural language queries with LLMs. Fine-tuned the LaMDA LLM with the a custom dataset, created a synthetic dataset using LLMs, evaluated the fine-tuned model with real user queries. The fine-tuned model significantly outperforms other search methods such as TF-IDF, sentence encoding, and LLM prompt engineering.
-
+Dec, 2022 - May, 2023<br/> 
+Enabled Android settings search to understand natural language queries by fine-tuned LLMs. 
 **Research Intern, Google, Mountain View, CA**<br/>
 Oct, 2022 - Dec, 2022<br/>
 (Same as the Google student researcher project above)<br/>
