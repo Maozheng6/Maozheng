@@ -47,7 +47,7 @@ Aug, 2009 - Jul, 2013.<br/>
 <a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="250" >  
 
 
-**Language model based text correction and text editing with voice and touch input on smartphones** <br/>
+#### Language model based text correction and text editing with voice and touch input on smartphones<br/>
 
 [Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
 
