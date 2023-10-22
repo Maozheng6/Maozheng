@@ -12,7 +12,7 @@ Phone：631-428-3846
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 ## Introduction
-I'm a computer science PhD candidate focuses on multi-modal human-computer interaction on mobile devices. I've published a few papers in CHI, UIST, and IUI. I've interned at Meta and Google. I've built multiple end-to-end mobile applications with multi-modal input and machine learning backend for enhanced interaction experience. I have 2 years experience of Android development, 2 years experience of iOS development, 3 years experience of deep learning, and 0.5 year experience of Unity development for VR. I have worked with touch, voice, eye gaze, and wristband input. And I've worked on LLM fine-tuning, CNN training and implementing machine learning models on Android/iOS devices. 
+I'm a computer science PhD candidate focuses on multi-modal human-computer interaction on mobile devices. I've published a few papers in CHI, UIST, and IUI. I've interned at Meta and Google. I've built multiple end-to-end mobile applications with multi-modal input and machine learning backend for enhanced interaction experience. I have 3 years experience of Android development, 2 years experience of iOS development, 3 years experience of deep learning, and 0.5 year experience of Unity development for VR. I have worked with touch, voice, eye gaze, and wristband input. And I've worked on LLM fine-tuning, CNN training and implementing machine learning models on Android/iOS devices. 
 ## Internship experience
 
 **Student researcher, Google, Mountain View, CA**<br/>
@@ -129,7 +129,7 @@ Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Sa
 
 
 ## Programming experience
-Python (7 years), Java (2 years), Swift (2 years), Pytorch (2 year), TensorFlow (0.5 year), C# (0.5 year)
+Python (7 years), Java (3 years), Swift (2 years), Pytorch (2 years), TensorFlow (0.5 year), C# (0.5 year)
 
 Android development (3 years), iOS development (2 years), VR development (0.5 year)
 
