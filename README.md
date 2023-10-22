@@ -49,7 +49,7 @@ Aug, 2009 - Jul, 2013.<br/><br/>
 
 [Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  <br/>
 
-Developped an end-to-end Android APP for a new text correction and text formatting method with voice and touch input. Converted voice input to executable text correction or formatting commands. Implemented a 3-gram language model and word embedding model on Android phones to correct text. Carried out a user study which proved that the proposed method reduced 31% text editing time and 48% text correction time from the iOS Voice Control. <br/>
+Developed an end-to-end Android APP for a new text correction and text formatting method with voice and touch input. Converted voice input to executable text correction or formatting commands. Implemented a 3-gram language model and word embedding model on Android phones to correct text. Carried out a user study which proved that the proposed method reduced 31% text editing time and 48% text correction time from the iOS Voice Control. <br/>
 
 <br/>
 
@@ -59,7 +59,7 @@ Developped an end-to-end Android APP for a new text correction and text formatti
 
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/)<br/>
 
-Developped an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian therory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction. Carried out a user study which proved that the Bayesian method reduced up to 23% text correction time from the non-Bayesian method.  <br/>
+Developed an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian therory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction. Carried out a user study which proved that the Bayesian method reduced up to 23% text correction time from the non-Bayesian method.  <br/>
 
 <br/>
 
@@ -69,7 +69,7 @@ Developped an end-to-end iOS APP for a new text correction method with eye gaze 
 
 [Project webpage](https://maozheng6.github.io/LLM-VT/) <br/>
 
-Developped an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
+Developed an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
 
 <br/>
 
@@ -79,7 +79,7 @@ Developped an end-to-end Android APP for a new LLM-based text correction method 
 
 [Project webpage](https://maozheng6.github.io/GazeSpeedup/)  <br/>
 
-Developped an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text input method with eye gaze and wristband input. Reduced 30% handmovement burden from users during swipe typing in VR by utilizing users' eye gaze. <br/>
+Developed an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text input method with eye gaze and wristband input. Reduced 30% handmovement burden from users during swipe typing in VR by utilizing users' eye gaze. <br/>
 
 <br/>
 
