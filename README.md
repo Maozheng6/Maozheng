@@ -17,7 +17,7 @@ I'm a computer science PhD candidate focuses on multi-modal human-computer inter
 
 **Student researcher, Google, Mountain View, CA**<br/>
 Dec, 2022 - May, 2023<br/> 
-Enabled Android settings search to understand natural language queries by fine-tuned LLMs. 
+Enabled Android settings search to understand natural language queries by fine-tuned LLMs. <br/>
 **Research Intern, Google, Mountain View, CA**<br/>
 Oct, 2022 - Dec, 2022<br/>
 (Same as the Google student researcher project above)<br/>
