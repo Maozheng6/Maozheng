@@ -45,33 +45,39 @@ Aug, 2009 - Jul, 2013.<br/>
 
 ## Project experience
 
-<a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  <br/>
+<a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="250" >  
+
 
 **Language model based text correction and text editing with voice and touch input on smartphones** <br/>
 
+[Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
+
 Developped an end-to-end Android APP for the new text correction and text formatting method. Converting voice input to executable formatting commands. Applying a 3-gram language model and word embedding on Android phones locally for predicting text correction results.<br/>
-
-[Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
-
-<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
-
-#### IUI 2023 
-Zhao, Maozheng, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. "Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality." In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI), pp. 595-606. 2023. [Acceptance Rate: 24.1%] <br/>
-[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
 
 <a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="250" >  
 
-#### IUI 2022 
-Zhao, Maozheng, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel et al. "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices." In 27th International Conference on Intelligent User Interfaces (IUI), pp. 470-482. 2022. [Acceptance Rate: 24.5%] <br/>
+**Eye Gaze and voice based text correction on iPad Pro** <br/>
+
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
 
-<a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="250" >  
-
-#### UIST 2021 
-Zhao, Maozheng, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST), pp. 162-178. 2021. [Acceptance Rate: 25.05%] <br/>
-[Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
+Developped an end-to-end  iOS APP for the new text correction method. Applying a 3-gram language model and word embedding on iPad for better text correction experience. The language model runs on a cloud server, the iPad request the server when a text correction interaction happens. <br/>
 
 
+<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
+
+**Eye gaze assisted swipe typing in VR**<br/>
+
+[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
+
+Developped a Unity APP on Meta Quest 2 for the new text input method. Reduced 30% physical burden from users during  swipe typing in VR by utilizing users' eye tracking information. <br/>
+
+<a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
+
+**LLM-based text correction with voice and touch input on smartphones** <br/>
+
+[Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
+
+Developped an end-to-end Android APP and a cloud server for the new text correction method. Fine-tuned FLAN-T5 LLM on Google colab. Created a synthetic dataset by random text generation. Served the LLM on a server for Android phones. Connected the interaction between the Android phone and the LLM server. Evaluated the LLM based text corrrection by a user study. <br/>
 
 
 ## Selected publications
