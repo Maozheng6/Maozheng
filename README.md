@@ -62,16 +62,6 @@ Developped an end-to-end Android APP for the new text correction and text format
 
 Developped an end-to-end  iOS APP for the new text correction method. Applying a 3-gram language model and word embedding on iPad for better text correction experience. The language model runs on a cloud server, the iPad request the server when a text correction interaction happens. <br/>
 
-
-<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
-
-**Eye gaze assisted swipe typing in VR**<br/>
-
-[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
-
-Developped a Unity APP on Meta Quest 2 for the new text input method. Reduced 30% physical burden from users during swipe typing in VR by utilizing users' eye tracking information. <br/>
-<br/>
-
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
 
 
@@ -81,6 +71,14 @@ Developped a Unity APP on Meta Quest 2 for the new text input method. Reduced 30
 
 Developped an end-to-end Android APP and a cloud server for the new text correction method. Fine-tuned FLAN-T5 LLM on Google colab. Created a synthetic dataset by random text generation. Served the LLM on a server for Android phones. Connected the interaction between the Android phone and the LLM server. Evaluated the LLM based text corrrection by a user study. <br/>
 
+<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
+
+**Eye gaze assisted swipe typing in VR**<br/>
+
+[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
+
+Developped a Unity APP on Meta Quest 2 for the new text input method. Reduced 30% physical burden from users during swipe typing in VR by utilizing users' eye tracking information. <br/>
+<br/>
 
 <img align="left" src="search_teasor.png" width="250">  
 
