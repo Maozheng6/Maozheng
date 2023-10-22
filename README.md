@@ -32,15 +32,15 @@ Reduced users' hand movement burden by 30% during gesture typing in virtual real
 Major: Computer Science.  Advisor: Prof. Xiaojun Bi.  GPA: 3.78 <br/>
 **Graduation date: December 2023.**<br/>
 The CS program is ranked #23 in the US by CSRankings.org <br/>
-Aug, 2016-present.<br/>
+Aug, 2016-present.<br/><br/>
 
 **M.S., Beijing University of Posts and Telecommunications, China**<br/>
 Major: Information and Communication Engineering.  GPA: 3.80<br/>
-Sep, 2013 - Mar, 2016<br/>
+Sep, 2013 - Mar, 2016<br/><br/>
 
 **B.S., Harbin Engineering University, China**<br/>
 Major: Electronic and Information Engineering.  GPA: 3.58<br/>
-Aug, 2009 - Jul, 2013.<br/>
+Aug, 2009 - Jul, 2013.<br/><br/>
 
 ## Project experience
 
