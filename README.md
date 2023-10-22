@@ -125,7 +125,7 @@ Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Sa
 ## Programming skills
 Python (fluent), Java, Swift, #C.
 
-Deep learning with Pytorch and TensorFlow, Android development with Java, iOS development with Swift, VR development in Unity with C#
+Android development with Java, iOS development with Swift, VR development in Unity with C#, Deep learning with Pytorch or TensorFlow
 
 ## Teaching Experience
 Teaching Assistance for CSE323 human-computer interaction, CSE214 data structures and CSE215 foundations of computer science
