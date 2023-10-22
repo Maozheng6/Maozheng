@@ -17,28 +17,28 @@ I'm a computer science PhD candidate focuses on multi-modal human-computer inter
 
 **Student researcher, Google, Mountain View, CA**<br/>
 Dec, 2022 - May, 2023<br/>
-Enabled Android settings search to understand natural language queries by LLMs. Created a dataset with pairs of natural language queries and answers by prompt engineering using LLMs, fine-tuned the LaMDA LLM with the dataset, evaluated the fine-tuned model with real user queries collected from a user study. The fine-tuned model significantly outperforms traditional search algorithms such as TF-IDF, and sentence encoding.
+Enabled Android settings search to understand natural language queries with LLMs. Fine-tuned the LaMDA LLM with the a custom dataset, created a synthetic dataset using LLMs, evaluated the fine-tuned model with real user queries. The fine-tuned model significantly outperforms other search methods such as TF-IDF, sentence encoding, and LLM prompt engineering.
 
 **Research Intern, Google, Mountain View, CA**<br/>
 Oct, 2022 - Dec, 2022<br/>
 (Same as the Google student researcher project above)<br/>
 
 **Research Scientist Intern, Meta, Redmond, WA**<br/>
-Reduced users' physical burden in gesture typing in virtual reality by utilizing eye tracking information. Published a conference paper in IUI 2024 from the intern project.<br/>
+Reduced users' hand movement burden by 30% during gesture typing in virtual reality by utilizing users' eye gaze input. Published a conference paper in IUI 2024 from this intern project.<br/>
 
 ## Education
 
 **Ph.D., Stony Brook University, USA**<br/>
 Major: Computer Science.  Advisor: Prof. Xiaojun Bi.  GPA: 3.78 <br/>
 **Graduation date: December 2023.**<br/>
-CS program is ranked #23 in the US by CSRankings.org <br/>
+The CS program is ranked #23 in the US by CSRankings.org <br/>
 Aug, 2016-present.<br/>
 
-**M.S., Beijing University of Posts and Telecommunications, Beijing**<br/>
+**M.S., Beijing University of Posts and Telecommunications, China**<br/>
 Major: Information and Communication Engineering.  GPA: 3.80<br/>
 Sep, 2013 - Mar, 2016<br/>
 
-**B.S., Harbin Engineering University**<br/>
+**B.S., Harbin Engineering University, China**<br/>
 Major: Electronic and Information Engineering.  GPA: 3.58<br/>
 Aug, 2009 - Jul, 2013.<br/>
 
