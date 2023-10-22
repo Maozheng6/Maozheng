@@ -44,8 +44,11 @@ Major: Electronic and Information Engineering.  GPA: 3.58<br/>
 Aug, 2009 - Jul, 2013.<br/>
 
 ## Project experience
+
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  <br/>
+
 **Language model based text correction and text editing with voice and touch input on smartphones** <br/>
+
 Developped an end-to-end Android APP for the new text correction and text formatting method. Converting voice input to executable formatting commands. Applying a 3-gram language model and word embedding on Android phones locally for predicting text correction results.<br/>
 
 [Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
