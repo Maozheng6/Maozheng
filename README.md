@@ -108,7 +108,8 @@ Enabled Android settings search to understand natural language queries with LLMs
 Li, Zhi, **Maozheng Zhao**, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi. "Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens." In CHI Conference on Human Factors in Computing Systems (CHI), pp. 1-15. 2022. [Acceptance Rate: 24.8%]
 
 #### GI 2021
-Li, Zhi, **Maozheng Zhao**, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. "BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection." In Proceedings. Graphics Interface (GI), vol. 2021, p. 231. NIH Public Access, 2021. 
+Li, Zhi, **Maozheng Zhao**, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. "BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection." In Proceedings. Graphics Interface (GI), vol. 2021, p. 231. NIH Public Access, 2021.<br/>
+ <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853835/"><img  src="pdf.gif" width="20" >  [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853835/) <br/>
 
 #### ICCV 2017
 
