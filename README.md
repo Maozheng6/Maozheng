@@ -51,7 +51,7 @@ Aug, 2009 - Jul, 2013.<br/>
 
 [Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
 
-Developped an end-to-end Android APP for a new text correction and text formatting method with voice and touch input. Converting voice input to executable text correction or formatting commands. Implemented a 3-gram language model and word embedding model on Android phones to correct text.<br/>
+Developped an end-to-end Android APP for a new text correction and text formatting method with voice and touch input. Converted voice input to executable text correction or formatting commands. Implemented a 3-gram language model and word embedding model on Android phones to correct text.<br/>
 
 <a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="250" >  
 
@@ -59,7 +59,7 @@ Developped an end-to-end Android APP for a new text correction and text formatti
 
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
 
-Developped an end-to-end  iOS APP for the new text correction method. Applying a 3-gram language model and word embedding on iPad for better text correction experience. The language model runs on a cloud server, the iPad request the server when a text correction interaction happens. <br/>
+Developped an end-to-end iOS APP for a new text correction method with eye gaze and voice input. Proposed and implemented a new eye gaze target selection method using Beyesian therory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the iOS APP for text correction.   <br/>
 
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
 
