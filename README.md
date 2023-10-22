@@ -86,7 +86,7 @@ Developped an end-to-end Android APP and a cloud server for the new text correct
 
 **LLM-based Android search for natural queries** <br/>
 
- <a href="https://github.com/Maozheng6/Maozheng/blob/main/search.pdf"><img  src="pdf.gif" width="20" >  [Slides](https://maozheng6.github.io/Maozheng/blob/main/search.pdf) <br/>
+ <a href="https://github.com/Maozheng6/Maozheng/blob/main/search.pdf"><img  src="pdf.gif" width="20" >  [Slides](https://github.com/Maozheng6/Maozheng/blob/main/search.pdf) <br/>
 
 Enabled Android settings search to understand natural language queries by LLMs. Created a dataset with pairs of natural language queries and answers by prompt engineering using LLMs, fine-tuned the LaMDA LLM with the dataset, evaluated the fine-tuned model with real user queries collected from a user study. The fine-tuned model significantly outperforms traditional search algorithms such as TF-IDF, and sentence encoding. <br/>
 
