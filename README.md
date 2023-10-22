@@ -46,7 +46,6 @@ Aug, 2009 - Jul, 2013.<br/><br/>
 
 <a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="250" >  
 
-
 ### Language model based text correction and text editing with voice and touch input on smartphones
 
 [Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
@@ -66,7 +65,6 @@ Developped an end-to-end iOS APP for a new text correction method with eye gaze 
 <br/>
 
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
-
 
 ### LLM-based text correction with voice and touch input on smartphones
 
@@ -89,7 +87,9 @@ Developped an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text inp
 <img align="left" src="search_teasor.png" width="250">  
 
 ### LLM-based Android search for natural queries
+
 <a href="https://maozheng6.github.io/Maozheng/search.pdf"><img  src="pdf.gif" width="20" >  [Slides](https://maozheng6.github.io/Maozheng/search.pdf) <br/>
+
 Enabled Android settings search to understand natural language queries with LLMs. Fine-tuned the LaMDA LLM with the a custom dataset, created a synthetic dataset using LLMs, evaluated the fine-tuned model with real user queries. The fine-tuned model significantly outperforms other search methods such as TF-IDF, sentence encoding, and LLM prompt engineering. <br/>
 
 <br/>
