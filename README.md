@@ -55,7 +55,7 @@ Developped an end-to-end Android APP for a new text correction and text formatti
 
 <a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="250" >  
 
-**Eye Gaze and voice based text correction on iPad Pro** <br/>
+### Eye Gaze and voice based text correction on iPad Pro
 
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
 
@@ -64,7 +64,7 @@ Developped an end-to-end iOS APP for a new text correction method with eye gaze 
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
 
 
-**LLM-based text correction with voice and touch input on smartphones** <br/>
+### LLM-based text correction with voice and touch input on smartphones
 
 [Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
 
@@ -72,7 +72,7 @@ Developped an end-to-end Android APP for a new LLM-based text correction method 
 
 <a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
 
-**Eye gaze assisted swipe typing in VR**<br/>
+### Eye gaze assisted swipe typing in VR
 
 [Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
 
@@ -81,7 +81,7 @@ Developped an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text inp
 
 <img align="left" src="search_teasor.png" width="250">  
 
-**LLM-based Android search for natural queries** <br/>
+### LLM-based Android search for natural queries
 
  <a href="https://maozheng6.github.io/Maozheng/search.pdf"><img  src="pdf.gif" width="20" >  [Slides](https://maozheng6.github.io/Maozheng/search.pdf) <br/>
 
