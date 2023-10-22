@@ -53,9 +53,11 @@ Aug, 2009 - Jul, 2013.<br/>
 
 Developped an end-to-end Android APP for a new text correction and text formatting method with voice and touch input. Converted voice input to executable text correction or formatting commands. Implemented a 3-gram language model and word embedding model on Android phones to correct text. Carried out a user study which proved that the proposed method reduced 31% text editing time and 48% text correction time from the iOS Voice Control. <br/>
 
+---<br><br>
+
 <a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="250" >  
 
----<br><br>
+
 
 ### Eye Gaze and voice based text correction on iPad Pro
 
