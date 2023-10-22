@@ -5,7 +5,7 @@
 CS PhD student in Computer Science<br/>
 Stony Brook University <br/>
 Email: maozheng.zhao@gmail.com<br/>
-Phone：631-438-3846
+Phone：631-428-3846
 
 [Resume](resume.pdf) \|
 [LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/) \|
