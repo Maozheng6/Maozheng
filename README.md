@@ -128,10 +128,10 @@ Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Sa
 <a href="https://maozheng6.github.io/Maozheng/iqa.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/iqa.pdf) <br/>
 
 
-## Programming skills
-Python (fluent), Java, Swift, #C.
+## Programming experience
+Python (7 years), Java (2 years), Swift (2 years), Pytorch (2 year), TensorFlow (0.5 year), C# (0.5 year)
 
-Android development with Java, iOS development with Swift, VR development in Unity with C#, Deep learning with Pytorch or TensorFlow
+Android development (3 years), iOS development (2 years), VR development (0.5 year)
 
 ## Teaching Experience
 Teaching Assistance for CSE323 human-computer interaction, CSE214 data structures and CSE215 foundations of computer science
