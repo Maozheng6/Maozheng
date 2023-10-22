@@ -11,9 +11,8 @@ Phone：631-428-3846
 [LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
-## Expertise
-My PhD research focuses on multi-modal human-computer interaction on mobile devices. I applied machine learning based language models to Android/iOS devices for better user experience. I have 4 years experience of Android/iOS development and 3 years experience of deep learning. I have experience in LLM fine-tuning, U-Net CNN training, GAN training and applying ML models to Android/iOS devices. I published a few papers in this area.
-
+## Introduction
+I'm a computer science PhD candidate focuses on multi-modal human-computer interaction on mobile devices. I've published a few papers in CHI, UIST, and IUI. I build end-to-end Android/iOS applications that has multi-modal input at the front end and has machine learning models in the backend for better user experience. I have 4 years experience of Android/iOS development and 3 years experience of deep learning. I have worked with touch, voice, eye gaze, and wristband input modalities in Android, iOS and VR systems. And I've worked on LLM fine-tuning, U-Net CNN training, GAN training and implement machine learning models on Android/iOS devices. 
 ## Internship experience
 
 **Student researcher, Google, Mountain View, CA**<br/>
