@@ -1,4 +1,4 @@
-<img align="left" src="headshot.png" width="230">
+<img align="left" src="headshot.png" width="200">
 
 
 # Maozheng Zhao
@@ -6,7 +6,6 @@ CS PhD student in Computer Science<br/>
 Stony Brook University <br/>
 Email: maozheng.zhao@gmail.com<br/>
 Phone：631-428-3846
-
 [Resume](resume.pdf) \|
 [LinkedIn](https://www.linkedin.com/in/maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
