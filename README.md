@@ -1,4 +1,4 @@
-<img align="left" src="headshot2.jpg" width="170">
+<img align="left" src="headshot.png" width="170">
 
 
 # Maozheng Zhao
@@ -40,6 +40,11 @@ Sep, 2013 - Mar, 2016<br/><br/>
 **B.S., Harbin Engineering University, China**<br/>
 Major: Electronic and Information Engineering.  GPA: 3.58<br/>
 Aug, 2009 - Jul, 2013.<br/><br/>
+
+## Programming experience
+Python (7 years), Java (3 years), Swift (2 years), Pytorch (2 years), TensorFlow (0.5 year), C# (0.5 year)
+
+Android development (3 years), iOS development (2 years), VR development (0.5 year)
 
 ## Project experience
 
@@ -126,12 +131,6 @@ Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Sa
 #### PCS 2015
 **Zhao, Maozheng**, Qin Tu, Yanping Lu, Yongyu Chang, and Bo Yang. "No-reference image quality assessment based on phase congruency and spectral entropies." In 2015 Picture Coding Symposium (PCS), pp. 302-306. IEEE, 2015.<br/>
 <a href="https://maozheng6.github.io/Maozheng/iqa.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/iqa.pdf) <br/>
-
-
-## Programming experience
-Python (7 years), Java (3 years), Swift (2 years), Pytorch (2 years), TensorFlow (0.5 year), C# (0.5 year)
-
-Android development (3 years), iOS development (2 years), VR development (0.5 year)
 
 ## Teaching Experience
 Teaching Assistance for CSE323 human-computer interaction, CSE214 data structures and CSE215 foundations of computer science
