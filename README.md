@@ -12,7 +12,7 @@ Phone：631-428-3846
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 ## Introduction
-I'm a computer science PhD candidate focuses on multi-modal human-computer interaction on mobile devices. I've published a few papers in CHI, UIST, and IUI. I've interned at Meta and Google. I've built multiple end-to-end mobile applications with multi-modal input and machine learning backend for enhanced interaction experience. I have 3 years experience of Android development, 2 years experience of iOS development, 3 years experience of deep learning, and 0.5 year experience of Unity development for VR. I have worked with touch, voice, eye gaze, and wristband input. And I've worked on LLM fine-tuning, CNN training and implementing machine learning models on Android/iOS devices. 
+I'm a computer science PhD candidate focusing on multi-modal human-computer interaction on mobile devices. I've published a few papers in CHI, UIST, and IUI. I've interned at Meta and Google. I've built multiple end-to-end mobile applications with multi-modal input and machine learning backend for enhanced interaction experience. I have 3 years experience of Android development, 2 years experience of iOS development, 3 years experience of deep learning, and 0.5 year experience of Unity development for VR. I have worked with touch, voice, eye gaze, and wristband input. And I've worked on LLM fine-tuning, CNN training and implementing machine learning models on Android/iOS devices. 
 ## Internship experience
 
 **Student researcher, Google, Mountain View, CA**<br/>
@@ -59,7 +59,7 @@ Developed an end-to-end Android APP for a new text correction and text formattin
 
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/)<br/>
 
-Developed an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian therory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction. Carried out a user study which proved that the Bayesian method reduced up to 23% text correction time from the non-Bayesian method.  <br/>
+Developed an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian theory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction. Carried out a user study which proved that the Bayesian method reduced up to 23% text correction time from the non-Bayesian method.  <br/>
 
 <br/>
 
