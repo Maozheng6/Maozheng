@@ -2,7 +2,7 @@
 
 
 # Maozheng Zhao
-CS PhD student in Computer Science<br/>
+Computer Science PhD student<br/>
 Stony Brook University <br/>
 Email: maozheng.zhao@gmail.com<br/>
 Phone：631-428-3846<br/>
