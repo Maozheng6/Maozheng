@@ -1,4 +1,4 @@
-<img align="left" src="headshot.png" width="170">
+<img align="left" src="headshot.png" width="200">
 
 
 # Maozheng Zhao
