@@ -23,7 +23,7 @@ Oct, 2022 - Dec, 2022<br/>
 (Same as the Google student researcher project above)<br/>
 
 **Research Scientist Intern, Meta, Redmond, WA**<br/>
-Reduced users' hand movement burden by 30% during gesture typing in virtual reality by utilizing users' eye gaze input. Published a conference paper in IUI 2024 from this intern project.<br/>
+Reduced users' hand movement burden by 30% during gesture typing in virtual reality by utilizing users' eye gaze input. Published a conference paper in IUI 2024 from this internship project.<br/>
 
 ## Education
 
