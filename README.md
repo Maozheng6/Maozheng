@@ -17,7 +17,7 @@ I'm a computer science PhD candidate focuses on multi-modal human-computer inter
 
 **Student researcher, Google, Mountain View, CA**<br/>
 Dec, 2022 - May, 2023<br/> 
-Enabled Android settings search to understand natural language queries by fine-tuned LLMs. <br/>
+Finetuned LLMs to enable Android settings search to understand natural language queries. <br/>
 **Research Intern, Google, Mountain View, CA**<br/>
 Oct, 2022 - Dec, 2022<br/>
 (Same as the Google student researcher project above)<br/>
@@ -75,7 +75,7 @@ Developed an end-to-end Android APP for a new LLM-based text correction method w
 
 <a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
 
-### Eye gaze assisted swipe typing in VR
+### (Meta internship) Eye gaze assisted swipe typing in VR
 
 [Project webpage](https://maozheng6.github.io/GazeSpeedup/)  <br/>
 
@@ -85,7 +85,7 @@ Developed an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text inpu
 
 <img align="left" src="search_teasor.png" width="250">  
 
-### LLM-based Android search for natural queries
+### (Google internship) LLM-based Android search for natural queries
 
 <a href="https://maozheng6.github.io/Maozheng/search.pdf"><img  src="pdf.gif" width="20" >  [Slides](https://maozheng6.github.io/Maozheng/search.pdf) <br/>
 
