@@ -46,6 +46,16 @@ Android development (3 years), iOS development (2 years), VR development (0.5 ye
 
 ## Project experience
 
+<a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
+
+### LLM-based text correction with voice and touch input on smartphones
+
+[Project webpage](https://maozheng6.github.io/LLM-VT/) <br/>
+
+Developed an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
+
+<br/>
+
 <a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="250" >  
 
 ### Language model based text correction and text editing with voice and touch input on smartphones
@@ -63,16 +73,6 @@ Developed an end-to-end Android APP for a new text correction and text formattin
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/)<br/>
 
 Developed an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian theory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction. Carried out a user study which proved that the Bayesian method reduced up to 23% text correction time from the non-Bayesian method.  <br/>
-
-<br/>
-
-<a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
-
-### LLM-based text correction with voice and touch input on smartphones
-
-[Project webpage](https://maozheng6.github.io/LLM-VT/) <br/>
-
-Developed an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
 
 <br/>
 
@@ -97,6 +97,10 @@ Fine tuned LLMs to enable Android settings search to understand natural language
 <br/>
 
 ## Selected publications
+#### CHI 2024 (under review)
+**Zhao, Maozheng**, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaojun Bi. "Beyond Autocorrect: LLM-based Multi-modal Text Correction on Smartphones with Voice and Touch Input." (Under review) CHI 2024 conference on Human Factors in Computing Systems. <br/>
+[Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
+
 #### UIST 2021
 **Zhao, Maozheng**, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST 2021), pp. 162-178. 2021. [Acceptance Rate: 25.05%] <br/>
 [Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
@@ -104,10 +108,6 @@ Fine tuned LLMs to enable Android settings search to understand natural language
 #### IUI 2022
 **Zhao, Maozheng**, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel et al. "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices." In 27th International Conference on Intelligent User Interfaces (IUI 2022), pp. 470-482. 2022. [Acceptance Rate: 24.5%] <br/>
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
-
-#### CHI 2024 (under review)
-**Zhao, Maozheng**, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaojun Bi. "Beyond Autocorrect: LLM-based Multi-modal Text Correction on Smartphones with Voice and Touch Input." (Under review) CHI 2024 conference on Human Factors in Computing Systems. <br/>
-[Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
 
 #### IUI 2023
 **Zhao, Maozheng**, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. "Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality." In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI 2023), pp. 595-606. 2023. [Acceptance Rate: 24.1%] <br/>
