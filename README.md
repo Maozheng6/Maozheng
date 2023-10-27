@@ -1,4 +1,4 @@
-<img align="left" src="headshot.png" width="190">
+<img align="left" src="headshot.png" width="150">
 
 
 # Andrew (Maozheng) Zhao
