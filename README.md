@@ -1,7 +1,7 @@
 <img align="left" src="headshot.png" width="190">
 
 
-# Maozheng Zhao
+# Andrew (Maozheng) Zhao
 Computer Science PhD student at Stony Brook University <br/>
 Email: maozheng.zhao@gmail.com<br/>
 Phone：(631) 428-3846<br/>
