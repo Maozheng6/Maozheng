@@ -15,10 +15,10 @@ I'm a computer science PhD candidate at Stony Brook University graduating in Dec
 
 **Student researcher, Google, Mountain View, CA**<br/>
 Dec, 2022 - May, 2023<br/> 
-Fine tuned LLMs to enable Android settings search to understand natural language queries. <br/>
+Fine tuned LLMs to enable Android settings search to understand natural language queries. Evaluated the fine-tuned LLMs with real user queries. The fine-tuned LLMs outperforms other search methods such as TF-IDF, sentence encoding, and prompt engineering. <br/>
 **Research Intern, Google, Mountain View, CA**<br/>
 Oct, 2022 - Dec, 2022<br/>
-(Same as the Google student researcher project above)<br/>
+Created a synthetic dataset by prompt engineering using the PaLM LLM. Fine tuned the LaMDA LLM on the synthetic dataset to enable Android settings search to understand natural language queries.<br/>
 
 **Research Scientist Intern, Meta, Redmond, WA**<br/>
 Reduced users' hand movement burden by 30% during gesture typing in virtual reality by utilizing users' eye gaze input. Published a conference paper in IUI 2024 from this internship project.<br/>
