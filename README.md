@@ -68,7 +68,7 @@ Developed an end-to-end Android APP for a new text correction and text formattin
 
 <a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="250" >  
 
-### Eye Gaze and voice based text correction on iPad Pro
+### Language model driven text correction on iPad Pro with eye gaze and voice input 
 
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
 
