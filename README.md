@@ -10,7 +10,7 @@ Phone：(631) 428-3846<br/>
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 ## Introduction
-I'm a computer science PhD candidate at Stony Brook University graduating in December 2023. My research focuses on language model powered multimodal human-computer interaction on mobile devices. I have publications in CHI, UIST, and IUI. I interned at Google and Meta. I have experience with LLM fine-tuning, and CNN training. I've built multiple end-to-end Android/iOS Apps that have language models and multimodal input for enhanced user experience. 
+I'm a computer science PhD candidate at Stony Brook University graduating in December 2023. My research focuses on language model powered multimodal human-computer interaction on mobile devices. I have publications in CHI, UIST, and IUI. I interned at Google and Meta. I have experience with LLM fine-tuning, n-gram language models and CNN training. I've built multiple end-to-end Android/iOS Apps that have language models and multimodal input for enhanced user experience. 
 ## Internship experience
 
 **Student researcher, Google, Mountain View, CA**<br/>
