@@ -46,6 +46,15 @@ Android development (3 years), iOS development (2 years), VR development (0.5 ye
 
 ## Project experience
 
+
+<img align="left" src="search_teasor.png" width="250">  
+
+### (Google internship) LLM-based Android search for natural queries
+
+Fine tuned LLMs to enable Android settings search to understand natural language queries. Created a synthetic dataset using LLMs, evaluated the fine-tuned model with real user queries. The fine-tuned model significantly outperforms other search methods such as TF-IDF, sentence encoding, and LLM prompt engineering. <br/>
+
+<br/>
+
 <a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
 
 ### LLM-based text correction with voice and touch input on smartphones
@@ -85,15 +94,7 @@ Developed an end-to-end iOS APP for a new text correction method with eye gaze a
 
 Developed an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text input method with eye gaze and wristband input. Reduced 30% hand movement burden from users during swipe typing in VR by utilizing users' eye gaze. <br/>
 
-<br/>
 
-<img align="left" src="search_teasor.png" width="250">  
-
-### (Google internship) LLM-based Android search for natural queries
-
-Fine tuned LLMs to enable Android settings search to understand natural language queries. Created a synthetic dataset using LLMs, evaluated the fine-tuned model with real user queries. The fine-tuned model significantly outperforms other search methods such as TF-IDF, sentence encoding, and LLM prompt engineering. <br/>
-
-<br/>
 
 ## Selected publications
 #### CHI 2024 (under review)
