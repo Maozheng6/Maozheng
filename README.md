@@ -1,4 +1,4 @@
-<img align="left" src="headshot.png" width="190">
+%<img align="left" src="headshot.png" width="190">
 
 
 # Andrew (Maozheng) Zhao
@@ -10,18 +10,18 @@ Phone：(934)799-4210<br/>
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 ## Introduction
-I'm a computer science PhD candidate at Stony Brook University graduating in December 2023. My research focuses on context-aware multimodal human-computer interaction on mobile devices. I have publications in CHI, UIST, and IUI. I interned at Google and Meta. I have experience with LLM fine-tuning, n-gram language models and CNN training. I've built multiple end-to-end Android/iOS Apps that have language models and multimodal input for enhanced user experience. 
+My research focuses on intelligent multimodal input technologies on mobile devices. I have experience with LLM fine-tuning and CNN training. I've built multiple end-to-end Android/iOS Apps with language models and multimodal input for enhanced user experience. I also have extensive experience in computer vision with deep learning. I have publications in CHI, UIST, and IUI. I interned at Google and Meta last year.
 ## Internship experience
 
 **Student researcher, Google, Mountain View, CA**<br/>
 Dec, 2022 - May, 2023<br/> 
-Fine tuned LLMs to enable Android settings search to understand natural language queries. Evaluated the fine-tuned LLMs with real user queries. The fine-tuned LLMs outperforms other search methods such as TF-IDF, sentence encoding, and prompt engineering. <br/>
+Fine-tuned LLMs to enable Android settings search to understand natural language queries. Evaluated the fine-tuned LLMs with real user queries. The fine-tuned LLMs outperforms other search methods such as TF-IDF, sentence encoding, and prompt engineering. <br/>
 **Research Intern, Google, Mountain View, CA**<br/>
 Oct, 2022 - Dec, 2022<br/>
-Created a synthetic dataset by prompt engineering using the PaLM LLM. Fine tuned the LaMDA LLM on the synthetic dataset to enable Android settings search to understand natural language queries.<br/>
+Created a synthetic dataset by prompt engineering using the PaLM LLM. Fine-tuned the LaMDA LLM on the synthetic dataset to enable Android settings search to understand natural language queries.<br/>
 
 **Research Scientist Intern, Meta, Redmond, WA**<br/>
-Reduced users' hand movement burden by 30% during gesture typing in virtual reality by utilizing users' eye gaze input. Published a conference paper in IUI 2024 from this internship project.<br/>
+Reduced users' hand movement burden by 30% during gesture typing in virtual reality by utilizing users' eye-gaze input. Published a conference paper in IUI 2024 from this internship project.<br/>
 
 ## Education
 
@@ -88,7 +88,7 @@ Developed an end-to-end iOS APP for a new text correction method with eye gaze a
 
 <a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
 
-### (Meta internship) Eye gaze assisted swipe typing in VR
+### (Meta internship) Eye gaze-assisted swipe typing in VR
 
 [Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
 
@@ -98,7 +98,7 @@ Developed an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text inpu
 
 ## Selected publications
 #### CHI 2024 (under review)
-**Zhao, Maozheng**, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaojun Bi. "Beyond Autocorrect: LLM-based Multi-modal Text Correction on Smartphones with Voice and Touch Input." (Under review) CHI 2024 conference on Human Factors in Computing Systems. <br/>
+**Zhao, Maozheng**, Nathan Huang, Rui Liu, Shumin Zhai, I. V. Ramakrishnan and Xiaojun Bi. "Beyond Autocorrect: LLM-based Multi-modal Text Correction on Smartphones with Voice and Touch Input." (Under review) CHI 2024 Conference on Human Factors in Computing Systems. <br/>
 [Project webpage](https://maozheng6.github.io/LLM-VT/), <a href="https://maozheng6.github.io/LLM-VT/LLM-VT.pdf"><img  src="pdf.gif" width="20" >  [Preprint](https://maozheng6.github.io/LLM-VT/LLM-VT.pdf) <br/>
 
 #### UIST 2021
