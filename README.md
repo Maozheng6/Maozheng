@@ -7,7 +7,7 @@ Phone：(934)799-4210<br/>
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 ## Introduction
-My research focuses on intelligent multimodal input technologies on mobile devices. I have experience with LLM fine-tuning and CNN training. I've built multiple end-to-end Android/iOS Apps with language models and multimodal input for enhanced user experience. I also have extensive experience in computer vision with deep learning. I have publications in CHI, UIST, and IUI. I interned at Google and Meta last year.
+I'm a CS Ph.D. student at Stony Brook University ([CSRankings](https://csrankings.org/#/index?all&us) #23 in the US). I'll graduate this December. My research focuses on intelligent multimodal input technologies on mobile devices. I have experience with LLM fine-tuning and CNN training. I've built multiple end-to-end Android/iOS Apps with language models and multimodal input for enhanced user experience. I also have extensive experience in computer vision with deep learning. I have publications in CHI, UIST, and IUI. I interned at Google and Meta last year.
 ## Internship experience
 
 **Student researcher, Google, Mountain View, CA**<br/>
