@@ -1,6 +1,3 @@
-
-
-
 # Andrew (Maozheng) Zhao
 Computer Science PhD student at Stony Brook University <br/>
 Email: andrew.zhao.2024@gmail.com<br/>
