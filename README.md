@@ -52,7 +52,7 @@ Fine tuned LLMs to enable Android settings search to understand natural language
 
 <br/>
 
-<a href="https://maozheng6.github.io/LLM-VT/"><img align="left" src="llm_teaser.png" width="250">  
+<img align="left" src="llm_teaser.png" width="250">  
 
 ### LLM-based text correction with voice and touch input on smartphones
 
