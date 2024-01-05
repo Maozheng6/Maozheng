@@ -1,7 +1,7 @@
 # Andrew (Maozheng) Zhao
 Computer Science PhD at Stony Brook University <br/>
 Email: andrew.zhao.2024@gmail.com<br/>
-Phone：(631）-428-3846<br/>
+Phone：(631)-428-3846<br/>
 [Resume](Resume_Andrew.pdf) \|
 [LinkedIn](https://www.linkedin.com/in/andrew-maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
