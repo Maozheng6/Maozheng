@@ -1,13 +1,15 @@
 # Andrew (Maozheng) Zhao
-Computer Science PhD student at Stony Brook University <br/>
+Computer Science PhD at Stony Brook University <br/>
 Email: andrew.zhao.2024@gmail.com<br/>
-Phone：(934)799-4210<br/>
+Phone：(631）-428-3846<br/>
 [Resume](Resume_Andrew.pdf) \|
 [LinkedIn](https://www.linkedin.com/in/andrew-maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
 ## Introduction
-I'm a CS Ph.D. student at Stony Brook University ([CSRankings](https://csrankings.org/#/index?all&us) #23 in the US). I'll graduate this December. My research focuses on intelligent multimodal input technologies on mobile devices. I have experience with LLM fine-tuning and CNN training. I've built multiple end-to-end Android/iOS Apps with language models and multimodal input for enhanced user experience. I also have extensive experience in computer vision with deep learning. I have publications in CHI, UIST, and IUI. I interned at Google and Meta last year.
+
+I got my computer science PhD from Stony Brook University in December 2023. My research focuses on intelligent multimodal input technologies on mobile devices. I've built multiple multimodal input applications in Android, iOS, and Meta Quest VR with touch, voice, and eye gaze input. I have machine learning experiences with large language models (LLMs), generative networks (GANs), and convolutional neural networks (CNNs).  I have publications in CHI, UIST,  IUI, and ICCV. I interned at Google and Meta for research.
+
 ## Internship experience
 
 **Student researcher, Google, Mountain View, CA**<br/>
