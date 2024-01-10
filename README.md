@@ -46,6 +46,36 @@ Android development (3 years), iOS development (2 years), VR development (0.5 ye
 ## Project experience
 
 
+<a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="250" >  
+
+### Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
+
+[Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
+
+Developed an end-to-end Android APP for a new text correction and text formatting method with voice and touch input. Converted voice input to executable text correction or formatting commands. Implemented a 3-gram language model and word embedding model on Android phones to correct text. Carried out a user study which proved that the proposed method reduced 31% text editing time and 48% text correction time from the iOS Voice Control. <br/>
+
+<br/>
+
+<a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="250" >  
+
+### EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices
+
+[Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
+
+
+Developed an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian theory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction. Carried out a user study which proved that the Bayesian method reduced up to 23% text correction time from the non-Bayesian method.  <br/>
+
+<br/>
+
+<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
+
+### (Meta internship) Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality
+
+[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
+
+Developed an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text input method with eye gaze and wristband input. Reduced 30% hand movement burden from users during swipe typing in VR by utilizing users' eye gaze. <br/>
+
+
 <img align="left" src="search_teasor.png" width="250">  
 
 ### (Google internship) LLM-based Android search for natural queries
@@ -62,36 +92,6 @@ Fine tuned LLMs to enable Android settings search to understand natural language
 Developed an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
 
 <br/>
-
-<a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="250" >  
-
-### Language model based text correction and text editing with voice and touch input on smartphones
-
-[Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
-
-Developed an end-to-end Android APP for a new text correction and text formatting method with voice and touch input. Converted voice input to executable text correction or formatting commands. Implemented a 3-gram language model and word embedding model on Android phones to correct text. Carried out a user study which proved that the proposed method reduced 31% text editing time and 48% text correction time from the iOS Voice Control. <br/>
-
-<br/>
-
-<a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="250" >  
-
-### Language model driven text correction on iPad Pro with eye gaze and voice input 
-
-[Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
-
-
-Developed an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian theory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction. Carried out a user study which proved that the Bayesian method reduced up to 23% text correction time from the non-Bayesian method.  <br/>
-
-<br/>
-
-<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
-
-### (Meta internship) Eye gaze-assisted swipe typing in VR
-
-[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
-
-Developed an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text input method with eye gaze and wristband input. Reduced 30% hand movement burden from users during swipe typing in VR by utilizing users' eye gaze. <br/>
-
 
 
 ## Selected publications
