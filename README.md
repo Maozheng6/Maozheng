@@ -73,7 +73,9 @@ Developed an end-to-end iOS APP for a new text correction method with eye gaze a
 
 [Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
 
-Developed an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text input method with eye gaze and wristband input. Reduced 30% hand movement burden from users during swipe typing in VR by utilizing users' eye gaze. <br/>
+Developed an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text input method with eye gaze and wristband input. Reduced 30% hand movement burden from users during swipe typing in VR by utilizing users' eye gaze. 
+
+<br/>
 
 
 <img align="left" src="search_teasor.png" width="250">  
