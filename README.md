@@ -91,7 +91,7 @@ Fine tuned LLMs to enable Android settings search to understand natural language
 ### LLM-based text correction with voice and touch input on smartphones
 
 
-Developed an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned FLAN-T5 LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
+Developed an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
 
 <br/>
 
