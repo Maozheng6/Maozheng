@@ -77,6 +77,8 @@ Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Sa
 
 ## Project experience
 
+<img align="left" src="llm_teaser.png" width="250">  
+
 ### LLM-based text correction with voice and touch input on smartphones
 
 
@@ -124,7 +126,6 @@ Fine tuned LLMs to enable Android settings search to understand natural language
 
 <br/>
 
-<img align="left" src="llm_teaser.png" width="250">  
 
 
 
