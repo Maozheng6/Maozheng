@@ -14,13 +14,13 @@ My research focuses on intelligent multimodal input technologies on mobile devic
 
 **Ph.D., Stony Brook University, USA**<br/>
 Major: Computer Science.  Advisor: Prof. Xiaojun Bi.  GPA: 3.78 <br/>
-Graduated in Dec 2023.<br/><br/>
+Graduated in Dec 2023.<br/>
 
 **M.S., Beijing University of Posts and Telecommunications, China**<br/>
-Major: Information and Communication Engineering.  GPA: 3.80<br/><br/>
+Major: Information and Communication Engineering.  GPA: 3.80<br/>
 
 **B.S., Harbin Engineering University, China**<br/>
-Major: Electronic and Information Engineering. GPA: 3.82<br/><br/>
+Major: Electronic and Information Engineering. GPA: 3.82<br/>
 
 
 ## Internship experience
