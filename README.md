@@ -1,3 +1,4 @@
+<br/>
 <img align="left" src="opt_head.jpg" width="180">  
 
 # Andrew (Maozheng) Zhao
