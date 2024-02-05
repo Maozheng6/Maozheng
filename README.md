@@ -131,7 +131,7 @@ Fine tuned LLMs to enable Android settings search to understand natural language
 
 
 
-## Programming experience
+## Programming skills
 Python, Java, Swift, C#, C++, PyTorch, TensorFlow, iOS development, Android development, Unity development
 
 
