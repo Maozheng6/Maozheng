@@ -1,4 +1,4 @@
-<img align="left" src="opt_head.jpg" width="180">  
+<img align="left" src="opt_head.jpg" width="150">  
 
 # Andrew (Maozheng) Zhao
 Computer Science PhD at Stony Brook University <br/>
