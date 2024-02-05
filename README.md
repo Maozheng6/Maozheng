@@ -1,4 +1,4 @@
-<img align="left" src="opt_head" width="250">  
+<img align="left" src="opt_head.jpg" width="250">  
 # Andrew (Maozheng) Zhao
 Computer Science PhD at Stony Brook University <br/>
 Email: andrew.zhao.2024@gmail.com<br/>
