@@ -77,6 +77,12 @@ Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Sa
 
 ## Project experience
 
+### LLM-based text correction with voice and touch input on smartphones
+
+
+Developed an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
+
+<br/>
 
 <a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="250" >  
 
@@ -120,12 +126,7 @@ Fine tuned LLMs to enable Android settings search to understand natural language
 
 <img align="left" src="llm_teaser.png" width="250">  
 
-### LLM-based text correction with voice and touch input on smartphones
 
-
-Developed an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
-
-<br/>
 
 ## Programming experience
 Python, Java, Swift, C#, C++, PyTorch, TensorFlow, iOS development, Android development, Unity development
