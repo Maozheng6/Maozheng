@@ -28,9 +28,11 @@ Major: Electronic and Information Engineering. GPA: 3.82<br/><br/>
 **Research Scientist Intern, Meta, Redmond, WA**<br/>
 May 2022 - Sept 2022<br/>
 Built a multi-modal gesture input application in virtual reality using wristband and eye gaze as input. It reduced 30% movement burden for users. The project is published in IUI 2023. <br/>
+<br/>
 **Research Intern, Google, Mountain View, CA**<br/>
 Oct 2022 - Dec 2022<br/>
 Fine-tuned LLMs to enable Android settings search to understand natural language queries. The fine-tuned LLMs outperform traditional search methods such as TF-IDF, sentence encoding, and prompt engineering.<br/>
+<br/>
 **Student researcher, Google, Mountain View, CA**<br/>
 Dec, 2022 - May, 2023<br/> 
 
