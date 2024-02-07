@@ -1,11 +1,12 @@
+[Resume](Resume_Andrew.pdf) \|
+[LinkedIn](https://www.linkedin.com/in/andrew-maozheng-z-51079914a/) \|
+[Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 <br/>
 <img align="left" src="opt_head.jpg" width="180">  
 
 # Andrew (Maozheng) Zhao
 
-[Resume](Resume_Andrew.pdf) \|
-[LinkedIn](https://www.linkedin.com/in/andrew-maozheng-z-51079914a/) \|
-[Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
+
 
 ## About me
 
