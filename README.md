@@ -1,4 +1,4 @@
-# Andrew (Maozheng) Zhao
+# Andrew (Maozheng) Zhao [Resume](Resume_Andrew.pdf)
 [Resume](Resume_Andrew.pdf) \|
 [LinkedIn](https://www.linkedin.com/in/andrew-maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
