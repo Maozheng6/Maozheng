@@ -50,19 +50,18 @@ Dec, 2022 - May, 2023<br/>
 Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 2024 <br/>
 [Webpage](https://maozheng6.github.io/LLM-VT/)
 
-
-#### IMWUT 2024 (under submission)
-**Zhao, Maozheng**, Nathan Huang, Rui Liu, Michael Xuelin Huang, Shumin Zhai, I. V. Ramakrishnan, and Xiaojun Bi. “LLM-VT: LLM-based Noise-robust Case-sensitive Text Correction System on Smartphones with Voice and Touch Input”. Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024). <br/>
-[Webpage](https://maozheng6.github.io/LLM-VT/)
-
 <a href="https://maozheng6.github.io/VT/"><img align="right" src="VT_teaser.png" width="250" >  
 ### Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
-**Zhao, Maozheng**, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi <br/>
-ACM Symposium on User Interface Software and Technology (**UIST**), 2021 <br/>
-
-#### UIST 2021
-**Zhao, Maozheng**, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST 2021), pp. 162-178. 2021. [Acceptance Rate: 25.05%] <br/>
+**Maozheng Zhao**, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi <br/>
+ACM Symposium on User Interface Software and Technology (**UIST**), 2021. [Acceptance Rate: 25.05%]  <br/>
 [Webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
+
+<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="right" src="gc_teaser.png" width="250" >  
+### Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality
+**Maozheng Zhao**, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. <br/>
+International Conference on Intelligent User Interfaces (**IUI**), 2023. [Acceptance Rate: 24.1%]  <br/>
+[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
+
 
 #### IUI 2023
 **Zhao, Maozheng**, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. "Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality." In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI 2023), pp. 595-606. 2023. [Acceptance Rate: 24.1%] <br/>
