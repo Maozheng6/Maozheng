@@ -73,8 +73,8 @@ International Conference on Intelligent User Interfaces (**IUI**), 2022. [Accept
 <img align="right" src="sos.png" width="250" >  
 
 ### Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens
-Li, Zhi, **Maozheng Zhao**, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi. 
-Conference on Human Factors in Computing Systems (**CHI**), 2022. [Acceptance Rate: 24.8%] 
+Li, Zhi, **Maozheng Zhao**, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi.  <br/>
+Conference on Human Factors in Computing Systems (**CHI**), 2022. [Acceptance Rate: 24.8%]  <br/>
 <a href="https://maozheng6.github.io/Maozheng/SOS.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/SOS.pdf) <br/>
 
 <img align="right" src="bg.png" width="250" >  
@@ -89,7 +89,7 @@ Graphics Interface (**GI**), 2021. <br/>
 
 ### Shadow detection with conditional generative adversarial networks
 Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Samaras. <br/>
-IEEE International Conference on Computer Vision (**ICCV**), 2017.
+IEEE International Conference on Computer Vision (**ICCV**), 2017. <br/>
 
 
 
