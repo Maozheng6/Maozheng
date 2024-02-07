@@ -50,6 +50,8 @@ Dec, 2022 - May, 2023<br/>
 Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 2024 <br/>
 [Webpage](https://maozheng6.github.io/LLM-VT/)
 
+---
+
 <a href="https://maozheng6.github.io/VT/"><img align="right" src="VT_teaser.png" width="250" >  
 ### Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
 **Maozheng Zhao**, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi <br/>
