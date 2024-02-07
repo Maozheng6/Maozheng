@@ -1,14 +1,16 @@
+# Andrew (Maozheng) Zhao
 [Resume](Resume_Andrew.pdf) \|
 [LinkedIn](https://www.linkedin.com/in/andrew-maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 <br/>
-<img align="left" src="opt_head.jpg" width="180">  
 
-# Andrew (Maozheng) Zhao
+
+
 
 
 
 ## About me
+<img align="left" src="opt_head.jpg" width="180">  
 
 I completed my Ph.D. in Computer Science, advised by Prof. [Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/) in the Human-computer Interaction Lab at [Stony Brook University](https://www.stonybrook.edu/). My research focuses on intelligent multimodal input technologies on mobile devices. I integrated multiple input modalities, such as touch, voice, and eye gaze, with AI models for a more efficient and natural interaction experience. I’m experienced with Android, iOS, and Unity development, as well as LLM finetuning and computer vision.
 
