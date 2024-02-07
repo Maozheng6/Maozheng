@@ -94,6 +94,7 @@ Graphics Interface (**GI**), 2021. <br/>
 ### Shadow detection with conditional generative adversarial networks
 Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Samaras. <br/>
 IEEE International Conference on Computer Vision (**ICCV**), 2017. <br/>
+<a href="https://maozheng6.github.io/Maozheng/scgan.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/scgan.pdf) <br/> 
 #
 
 
