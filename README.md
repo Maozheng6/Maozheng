@@ -23,7 +23,7 @@ Fine-tuned LLMs to enable Android settings search to understand natural language
 Dec, 2022 - May, 2023<br/> 
 
 
-## Selected publications
+## Publications
 
 
 <img align="right" src="llm_teaser.png" width="250">  
