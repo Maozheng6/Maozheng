@@ -2,7 +2,8 @@
 <img align="left" src="opt_head.jpg" width="180">  
 
 # Andrew (Maozheng) Zhao
-Computer Science PhD at Stony Brook University <br/>
+Computer Science PhD in Human-computer Interaction<br/>
+Stony Brook University <br/>
 Email: andrew.zhao.2024@gmail.com<br/>
 Phone：(631)-428-3846<br/>
 [Resume](Resume_Andrew.pdf) \|
