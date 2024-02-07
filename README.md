@@ -51,6 +51,8 @@ Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquit
 [Webpage](https://maozheng6.github.io/LLM-VT/)
 
 ---
+***
+___
 
 <a href="https://maozheng6.github.io/VT/"><img align="right" src="VT_teaser.png" width="250" >  
 ### Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
