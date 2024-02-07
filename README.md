@@ -42,6 +42,13 @@ Dec, 2022 - May, 2023<br/>
 
 ## Selected publications
 
+#### LLM-VT: LLM-based Noise-robust Case-sensitive Text Correction System on Smartphones with Voice and Touch Input
+
+**Maozheng Zhao**, Nathan Huang, Rui Liu, Michael Xuelin Huang, Shumin Zhai, I. V. Ramakrishnan, and Xiaojun Bi. 
+Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024).
+[Webpage](https://maozheng6.github.io/LLM-VT/)
+
+
 #### IMWUT 2024 (under submission)
 **Zhao, Maozheng**, Nathan Huang, Rui Liu, Michael Xuelin Huang, Shumin Zhai, I. V. Ramakrishnan, and Xiaojun Bi. “LLM-VT: LLM-based Noise-robust Case-sensitive Text Correction System on Smartphones with Voice and Touch Input”. Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024). <br/>
 [Webpage](https://maozheng6.github.io/LLM-VT/)
