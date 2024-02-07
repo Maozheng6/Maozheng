@@ -70,18 +70,22 @@ International Conference on Intelligent User Interfaces (**IUI**), 2023. [Accept
 International Conference on Intelligent User Interfaces (**IUI**), 2022. [Acceptance Rate: 24.5%]   <br/>
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
 
+<img align="right" src="sos.png" width="250" >  
 
 ### Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens
 Li, Zhi, **Maozheng Zhao**, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi. 
 Conference on Human Factors in Computing Systems (**CHI**), 2022. [Acceptance Rate: 24.8%] 
 <a href="https://maozheng6.github.io/Maozheng/SOS.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/SOS.pdf) <br/>
 
+<img align="right" src="bg.png" width="250" >  
 
 ### BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection
 Li, Zhi, **Maozheng Zhao**, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. <br/>
 Graphics Interface (**GI**), 2021. <br/>
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853835/"><img  src="pdf.gif" width="20" >  [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853835/) <br/>
 
+
+<img align="right" src="gan.png" width="250" >  
 
 ### Shadow detection with conditional generative adversarial networks
 Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Samaras. <br/>
