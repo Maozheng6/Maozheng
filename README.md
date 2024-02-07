@@ -11,7 +11,7 @@ Phone：(631)-428-3846<br/>
 
 ## About me
 
-I completed my Ph.D. in Computer Science, advised by Xiaojun Bi in the Human-computer Interaction Lab at Stony Brook University. My research focuses on intelligent multimodal input technologies on mobile devices. I integrated multiple input modalities, such as touch, voice, and eye gaze, with AI models for a more efficient and natural interaction experience. I’m experienced with Android, iOS, and Unity development, as well as LLM finetuning and computer vision.
+I completed my Ph.D. in Computer Science, advised by Prof. [Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/) in the Human-computer Interaction Lab at [Stony Brook University](https://www.stonybrook.edu/). My research focuses on intelligent multimodal input technologies on mobile devices. I integrated multiple input modalities, such as touch, voice, and eye gaze, with AI models for a more efficient and natural interaction experience. I’m experienced with Android, iOS, and Unity development, as well as LLM finetuning and computer vision.
 
 
 ## Internship experience
