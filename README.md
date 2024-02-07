@@ -11,7 +11,7 @@ Phone：(631)-428-3846<br/>
 
 ## Introduction
 
-My research focuses on intelligent multimodal input technologies on mobile devices. I published in UIST, CHI, and IUI. I've built input technologies with touch, voice, and eye gaze in Android, iOS, and Unity. I also have experience with LLM finetuning and computer vision.
+I completed my Ph.D. in Computer Science, advised by Xiaojun Bi in the Human-computer Interaction Lab at Stony Brook University. My research focuses on intelligent multimodal input technologies on mobile devices. I integrated multiple input modalities, such as touch, voice, and eye gaze, with AI models for a more efficient and natural interaction experience. I’m experienced with Android, iOS, and Unity development, as well as LLM finetuning and computer vision.
 
 ## Education
 
