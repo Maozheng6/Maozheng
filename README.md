@@ -46,8 +46,8 @@ Dec, 2022 - May, 2023<br/>
 <img align="right" src="llm_teaser.png" width="250">  
 
 ### LLM-VT: LLM-based Noise-robust Case-sensitive Text Correction System on Smartphones with Voice and Touch Input <br/>
-**Maozheng Zhao**, Nathan Huang, Rui Liu, Michael Xuelin Huang, Shumin Zhai, I. V. Ramakrishnan, and Xiaojun Bi. <br/>
-Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024).<br/>
+**Maozheng Zhao**, Nathan Huang, Rui Liu, Michael Xuelin Huang, Shumin Zhai, I. V. Ramakrishnan, and Xiaojun Bi <br/>
+Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 2024 <br/>
 [Webpage](https://maozheng6.github.io/LLM-VT/)
 
 
@@ -55,6 +55,10 @@ Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquit
 **Zhao, Maozheng**, Nathan Huang, Rui Liu, Michael Xuelin Huang, Shumin Zhai, I. V. Ramakrishnan, and Xiaojun Bi. “LLM-VT: LLM-based Noise-robust Case-sensitive Text Correction System on Smartphones with Voice and Touch Input”. Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2024). <br/>
 [Webpage](https://maozheng6.github.io/LLM-VT/)
 
+<a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="250" >  
+### Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
+**Zhao, Maozheng**, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi <br/>
+ACM Symposium on User Interface Software and Technology (**UIST**), 2021 <br/>
 
 #### UIST 2021
 **Zhao, Maozheng**, Wenzhe Cui, I. V. Ramakrishnan, Shumin Zhai, and Xiaojun Bi. "Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones." In The 34th Annual ACM Symposium on User Interface Software and Technology (UIST 2021), pp. 162-178. 2021. [Acceptance Rate: 25.05%] <br/>
