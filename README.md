@@ -81,8 +81,3 @@ IEEE International Conference on Computer Vision (**ICCV**), 2017. <br/>
 <a href="https://maozheng6.github.io/Maozheng/scgan.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/scgan.pdf) <br/> 
 #
 
-
-## Programming skills
-Python, Java, Swift, C#, C++, PyTorch, TensorFlow, iOS development, Android development, Unity development
-
-
