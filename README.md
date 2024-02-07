@@ -1,6 +1,5 @@
 # Andrew (Maozheng) Zhao 
-[Resume](Resume_Andrew.pdf) \|
-[LinkedIn](https://www.linkedin.com/in/andrew-maozheng-z-51079914a/) \|
+[CV](Resume_Andrew.pdf) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 <br/>
 
