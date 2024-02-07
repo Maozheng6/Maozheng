@@ -63,31 +63,29 @@ International Conference on Intelligent User Interfaces (**IUI**), 2023. [Accept
 [Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
 
 
-#### IUI 2023
-**Zhao, Maozheng**, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. "Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality." In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI 2023), pp. 595-606. 2023. [Acceptance Rate: 24.1%] <br/>
-[Webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
+<a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="right" src="ESC_teaser.png" width="250" >  
 
-#### IUI 2022
-**Zhao, Maozheng**, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel et al. "EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices." In 27th International Conference on Intelligent User Interfaces (IUI 2022), pp. 470-482. 2022. [Acceptance Rate: 24.5%] <br/>
-[Webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
+### EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices
+**Maozheng Zhao**, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel, et al.   <br/>
+International Conference on Intelligent User Interfaces (**IUI**), 2022. [Acceptance Rate: 24.5%]   <br/>
+[Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
 
 
-#### CHI 2022
-Li, Zhi, **Maozheng Zhao**, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi. "Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens." In CHI Conference on Human Factors in Computing Systems (CHI), pp. 1-15. 2022. [Acceptance Rate: 24.8%]<br/>
- <a href="https://maozheng6.github.io/Maozheng/SOS.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/SOS.pdf) <br/>
+### Select or Suggest? Reinforcement Learning-based Method for High-Accuracy Target Selection on Touchscreens
+Li, Zhi, **Maozheng Zhao**, Dibyendu Das, Hang Zhao, Yan Ma, Wanyu Liu, Michel Beaudouin-Lafon, Fusheng Wang, Iv Ramakrishnan, and Xiaojun Bi. 
+Conference on Human Factors in Computing Systems (**CHI**), 2022. [Acceptance Rate: 24.8%] 
+<a href="https://maozheng6.github.io/Maozheng/SOS.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/SOS.pdf) <br/>
 
-#### GI 2021
-Li, Zhi, **Maozheng Zhao**, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. "BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection." In Proceedings. Graphics Interface (GI), vol. 2021, p. 231. NIH Public Access, 2021.<br/>
- <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853835/"><img  src="pdf.gif" width="20" >  [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853835/) <br/>
 
-#### ICCV 2017
+### BayesGaze: A Bayesian Approach to Eye-Gaze Based Target Selection
+Li, Zhi, **Maozheng Zhao**, Yifan Wang, Sina Rashidian, Furqan Baig, Rui Liu, Wanyu Liu et al. <br/>
+Graphics Interface (**GI**), 2021. <br/>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853835/"><img  src="pdf.gif" width="20" >  [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853835/) <br/>
 
-Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Samaras. "Shadow detection with conditional generative adversarial networks." In Proceedings of the IEEE International Conference on Computer Vision (ICCV), pp. 4510-4518. 2017. <br/>
-<a href="https://maozheng6.github.io/Maozheng/scgan.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/scgan.pdf) <br/>
 
-#### PCS 2015
-**Zhao, Maozheng**, Qin Tu, Yanping Lu, Yongyu Chang, and Bo Yang. "No-reference image quality assessment based on phase congruency and spectral entropies." In 2015 Picture Coding Symposium (PCS), pp. 302-306. IEEE, 2015.<br/>
-<a href="https://maozheng6.github.io/Maozheng/iqa.pdf"><img  src="pdf.gif" width="20" >  [Paper](https://maozheng6.github.io/Maozheng/iqa.pdf) <br/>
+### Shadow detection with conditional generative adversarial networks
+Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Samaras. <br/>
+IEEE International Conference on Computer Vision (**ICCV**), 2017.
 
 
 ## Project experience
