@@ -9,7 +9,7 @@ Phone：(631)-428-3846<br/>
 [LinkedIn](https://www.linkedin.com/in/andrew-maozheng-z-51079914a/) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 
-## Introduction
+## About me
 
 I completed my Ph.D. in Computer Science, advised by Xiaojun Bi in the Human-computer Interaction Lab at Stony Brook University. My research focuses on intelligent multimodal input technologies on mobile devices. I integrated multiple input modalities, such as touch, voice, and eye gaze, with AI models for a more efficient and natural interaction experience. I’m experienced with Android, iOS, and Unity development, as well as LLM finetuning and computer vision.
 
