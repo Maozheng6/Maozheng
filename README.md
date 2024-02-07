@@ -88,67 +88,8 @@ Nguyen, Vu, Tomas F. Yago Vicente, **Maozheng Zhao**, Minh Hoai, and Dimitris Sa
 IEEE International Conference on Computer Vision (**ICCV**), 2017.
 
 
-## Project experience
-
-<img align="left" src="llm_teaser.png" width="250">  
-
-### LLM-based text correction with voice and touch input on smartphones
-
-
-Developed an end-to-end Android APP for a new LLM-based text correction method with voice and touch input. Fine-tuned LLM on Google colab with a semi-synthetic dataset. Served the LLM on a cloud server that communicates with the Android APP for text correction. Carried out a user study and proved that the proposed LLM-based method reduced 15% text correction time from the state-of-the-art method. <br/>
-
-<br/>
-
-<a href="https://maozheng6.github.io/VT/"><img align="left" src="VT_teaser.png" width="250" >  
-
-### Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
-
-[Project webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
-
-Developed an end-to-end Android APP for a new text correction and text formatting method with voice and touch input. Converted voice input to executable text correction or formatting commands. Implemented a 3-gram language model and word embedding model on Android phones to correct text. Carried out a user study which proved that the proposed method reduced 31% text editing time and 48% text correction time from the iOS Voice Control. <br/>
-
-<br/>
-
-<a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="left" src="ESC_teaser.png" width="250" >  
-
-### EyeSayCorrect: Eye Gaze and Voice Based Hands-free Text Correction for Mobile Devices
-
-[Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
-
-
-Developed an end-to-end iOS APP for a new text correction method with eye gaze and voice input on an iPad Pro. Proposed a new eye gaze target selection method using Beyesian theory for noisy eye gaze input. Implemented a 3-gram language model on a cloud server connected with the APP for text correction. Carried out a user study which proved that the Bayesian method reduced up to 23% text correction time from the non-Bayesian method.  <br/>
-
-<br/>
-
-<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="left" src="gc_teaser.png" width="250" >  
-
-### (Meta internship) Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality
-
-[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
-
-Developed an end-to-end 3D Unity APP on Meta Quest 2 with C# for a new text input method with eye gaze and wristband input. Reduced 30% hand movement burden from users during swipe typing in VR by utilizing users' eye gaze. 
-
-<br/>
-
-
-<img align="left" src="search_teasor.png" width="250">  
-
-### (Google internship) LLM-based Android search for natural queries
-
-Fine tuned LLMs to enable Android settings search to understand natural language queries. Created a synthetic dataset using LLMs, evaluated the fine-tuned model with real user queries. The fine-tuned model significantly outperforms other search methods such as TF-IDF, sentence encoding, and LLM prompt engineering. <br/>
-
-<br/>
-
-
-
 
 ## Programming skills
 Python, Java, Swift, C#, C++, PyTorch, TensorFlow, iOS development, Android development, Unity development
-
-
-
-## Teaching Experience
-Teaching Assistance for CSE323 human-computer interaction, CSE214 data structures and CSE215 foundations of computer science
-
 
 
