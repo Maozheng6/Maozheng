@@ -6,7 +6,7 @@
 ## About me
 <img align="left" src="opt_head.jpg" width="150">  
 
-I completed my Ph.D. in Computer Science, advised by Prof. [Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/) at [Stony Brook University](https://www.stonybrook.edu/). My research is in human-computer interaction, focusing on intelligent multimodal input technologies on mobile devices. I integrated multiple input modalities, such as touch, voice, and eye gaze, with AI models for a more efficient and natural interaction experience. I’m experienced with Android, iOS, and Unity development, as well as LLM finetuning and computer vision.
+I completed my Ph.D. in Computer Science, advised by Prof. [Xiaojun Bi](https://www3.cs.stonybrook.edu/~xiaojun/) at [Stony Brook University](https://www.stonybrook.edu/). My research is in **human-computer interaction**, focusing on **intelligent multimodal input technologies** on mobile devices. I integrated multiple input modalities, such as touch, voice, and eye gaze, with AI models for a more **efficient and natural interaction experience**. I’m experienced with Android, iOS, and Unity development, as well as LLM finetuning and computer vision.
 <br/><br/><br/>
 
 ## Internship experience
