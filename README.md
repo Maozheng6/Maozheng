@@ -1,5 +1,5 @@
 # Andrew (Maozheng) Zhao 
-[CV](Maozheng Zhao Resume.pdf) \|
+[CV](Maozheng\ Zhao\ Resume.pdf) \|
 [Google scholar](https://scholar.google.com/citations?hl=en&user=3wbgHbIAAAAJ)
 <br/>
 
