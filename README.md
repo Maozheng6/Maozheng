@@ -25,6 +25,12 @@ Dec, 2022 - May, 2023<br/>
 
 ## Publications
 
+<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="right" src="gc_teaser.png" width="250" >  
+### Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality
+**Maozheng Zhao**, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. <br/>
+International Conference on Intelligent User Interfaces (**IUI**), 2023. [Acceptance Rate: 24.1%]  <br/>
+[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
+<br/>
 
 <img align="right" src="llm_teaser.png" width="250">  
 
@@ -42,12 +48,7 @@ ACM Symposium on User Interface Software and Technology (**UIST**), 2021. [Accep
 [Webpage](https://maozheng6.github.io/VT/), <a href="https://dl.acm.org/doi/pdf/10.1145/3472749.3474742"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3472749.3474742) <br/>
 <br/>
 
-<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="right" src="gc_teaser.png" width="250" >  
-### Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality
-**Maozheng Zhao**, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. <br/>
-International Conference on Intelligent User Interfaces (**IUI**), 2023. [Acceptance Rate: 24.1%]  <br/>
-[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
-<br/>
+
 
 <a href="https://maozheng6.github.io/EyeSayCorrect/"><img align="right" src="ESC_teaser.png" width="250" >  
 
