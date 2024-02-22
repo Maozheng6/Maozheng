@@ -55,6 +55,7 @@ International Conference on Intelligent User Interfaces (**IUI**), 2023. [Accept
 **Maozheng Zhao**, Henry Huang, Zhi Li, Rui Liu, Wenzhe Cui, Kajal Toshniwal, Ananya Goel, et al.   <br/>
 International Conference on Intelligent User Interfaces (**IUI**), 2022. [Acceptance Rate: 24.5%]   <br/>
 [Project webpage](https://maozheng6.github.io/EyeSayCorrect/), <a href="https://dl.acm.org/doi/pdf/10.1145/3490099.3511103"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3490099.3511103) <br/>
+
 #
 
 <img align="right" src="sos.png" width="250" >  
