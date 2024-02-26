@@ -25,12 +25,6 @@ Dec, 2022 - May, 2023<br/>
 
 ## Publications
 
-<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="right" src="gc_teaser.png" width="250" >  
-### Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality
-**Maozheng Zhao**, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. <br/>
-International Conference on Intelligent User Interfaces (**IUI**), 2023. [Acceptance Rate: 24.1%]  <br/>
-[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
-<br/>
 
 <img align="right" src="llm_teaser.png" width="250">  
 
@@ -40,6 +34,14 @@ Submitted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquit
 [Webpage](https://maozheng6.github.io/LLM-VT/)
 
 <br/>
+
+<a href="https://maozheng6.github.io/GazeSpeedup/"><img align="right" src="gc_teaser.png" width="250" >  
+### Gaze Speedup: Eye Gaze Assisted Gesture Typing in Virtual Reality
+**Maozheng Zhao**, Alec M. Pierce, Ran Tan, Ting Zhang, Tianyi Wang, Tanya R. Jonker, Hrvoje Benko, and Aakar Gupta. <br/>
+International Conference on Intelligent User Interfaces (**IUI**), 2023. [Acceptance Rate: 24.1%]  <br/>
+[Project webpage](https://maozheng6.github.io/GazeSpeedup/), <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584072"><img  src="pdf.gif" width="20" >  [Paper](https://dl.acm.org/doi/pdf/10.1145/3581641.3584072) <br/>
+<br/>
+
 
 <a href="https://maozheng6.github.io/VT/"><img align="right" src="VT_teaser.png" width="250" >  
 ### Voice and Touch Based Error-tolerant Multimodal Text Editing and Correction for Smartphones
